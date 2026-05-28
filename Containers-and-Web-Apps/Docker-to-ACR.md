@@ -32,7 +32,7 @@ To push your Docker image to Azure Container Registry (ACR), run the following c
 # Set the ACR name variable for reuse
 export ACR_NAME=<your-acr-name>
 
-az acr login --name <your-acr-name>
+az acr login --name $ACR_NAME
 docker tag aoaipythonapp $ACR_NAME.azurecr.io/aoaipythonapp:v1
 docker push $ACR_NAME.azurecr.io/aoaipythonapp:v1
 ```
