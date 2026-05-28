@@ -1,4 +1,4 @@
-#### Run An AI Application Locally with Docker and Push to ACR
+### Run An AI Application Locally with Docker and Push to ACR
 
 ![Docker_to_ACR](./Images/Docker_to_ACR.png)
 
