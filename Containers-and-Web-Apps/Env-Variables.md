@@ -1,4 +1,4 @@
-### Injecting Environment Variables into Azure Web Apps
+## Injecting Environment Variables into Azure Web Apps
 
 Change the following piece of code in `app.py` to read the configuration from environment variables:
 

@@ -1,6 +1,6 @@
-### Building Images with ACR Tasks
+## Building Images with ACR Tasks
 
-#### Quick Tasks for on-demand builds
+### Quick Tasks for on-demand builds
 
 The following command builds an image from a local Dockerfile and pushes it to the registry:
 ```bash

@@ -1,6 +1,6 @@
-### Persistent Storage in Azure Web Apps
+## Persistent Storage in Azure Web Apps
 
-#### Add a Chat Record 
+### Add a Chat Record 
 
 Replace the code inn `app.py` with the following code to add a chat record to Persistent Storage in Azure Web Apps:
 

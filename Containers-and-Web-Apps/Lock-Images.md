@@ -1,6 +1,6 @@
-### Lock and Unlock Images in ACR
+## Lock and Unlock Images in ACR
 
-#### Lock an ACR Image
+### Lock an ACR Image
 ```bash
 az acr repository update \
     --name $ACR_NAME \
@@ -8,7 +8,7 @@ az acr repository update \
     --write-enabled false
 ```
 
-#### Unlock an ACR Image
+### Unlock an ACR Image
 ```bash
 az acr repository update \
     --name $ACR_NAME \

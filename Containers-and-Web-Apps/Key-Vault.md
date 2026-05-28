@@ -1,4 +1,4 @@
-### Using Azure Key Vault Secret Store for Azure Web Apps
+## Using Azure Key Vault Secret Store for Azure Web Apps
 
 1) Create an Azure Key Vault and add secret for your Azure OpenAI API Key.
 
