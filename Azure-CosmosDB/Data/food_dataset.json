@@ -1,0 +1,3634 @@
+[
+  {
+    "category": "Smoothies",
+    "name": "Ashunti`Way Smoothie",
+    "description": "Fruit n greens, mango bananas, tropical fruit blend, dragon fruit mix, mango, bananas, pineapples, apples, and spinach. Special green with strawberry bananas juice blend . Our fruity tasty smoothies are blended to perfection.",
+    "price": "5.49 USD",
+    "id": "food0001",
+    "restaurantId": "rest-2",
+    "rating": 4.6,
+    "reviewCount": 262,
+    "priceValue": 5.49,
+    "currency": "USD",
+    "available": false,
+    "calories": 146,
+    "dietaryTags": [
+      "High Protein",
+      "Gluten-Free"
+    ],
+    "content": "Ashunti`Way Smoothie belongs to category Smoothies. Fruit n greens, mango bananas, tropical fruit blend, dragon fruit mix, mango, bananas, pineapples, apples, and spinach. Special green with strawberry bananas juice blend . Our fruity tasty smoothies are blended to perfection. Price is 5.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Jimmy Jam Smoothie",
+    "description": "Berries n kale, strawberries, bananas, blueberries kale, tropical fruit blend, and dragon fruit. Our fruity tasty smoothies are blended to perfection.",
+    "price": "5.49 USD",
+    "id": "food0002",
+    "restaurantId": "rest-3",
+    "rating": 4.4,
+    "reviewCount": 108,
+    "priceValue": 5.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 596,
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "content": "Jimmy Jam Smoothie belongs to category Smoothies. Berries n kale, strawberries, bananas, blueberries kale, tropical fruit blend, and dragon fruit. Our fruity tasty smoothies are blended to perfection. Price is 5.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Tejay Impact Smoothie",
+    "description": "Tropical fruit blend, dragon fruit mix, mango, bananas, pineapples, apples, and spinach. Special blue juice blend smoothies.",
+    "price": "5.49 USD",
+    "id": "food0003",
+    "restaurantId": "rest-4",
+    "rating": 4.0,
+    "reviewCount": 456,
+    "priceValue": 5.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 301,
+    "dietaryTags": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "content": "Tejay Impact Smoothie belongs to category Smoothies. Tropical fruit blend, dragon fruit mix, mango, bananas, pineapples, apples, and spinach. Special blue juice blend smoothies. Price is 5.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Dayton 500 Smoothie",
+    "description": "Tropical fruit blend, dragon fruit mix, mango, bananas, pineapples, apples. Special green juice blend. Our fruity tasty smoothies are blended to perfection.",
+    "price": "5.49 USD",
+    "id": "food0004",
+    "restaurantId": "rest-5",
+    "rating": 4.9,
+    "reviewCount": 495,
+    "priceValue": 5.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 452,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Vegetarian",
+      "High Protein"
+    ],
+    "content": "Dayton 500 Smoothie belongs to category Smoothies. Tropical fruit blend, dragon fruit mix, mango, bananas, pineapples, apples. Special green juice blend. Our fruity tasty smoothies are blended to perfection. Price is 5.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Nappy Head Truth Smoothie",
+    "description": "Refreshing greens with a hint of mint, apples, bananas, kale, cucumbers, spinach, and mint leaves smoothies. Our fruity tasty smoothies are blended to perfection.",
+    "price": "6.49 USD",
+    "id": "food0005",
+    "restaurantId": "rest-6",
+    "rating": 3.9,
+    "reviewCount": 72,
+    "priceValue": 6.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 927,
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free",
+      "Vegetarian"
+    ],
+    "content": "Nappy Head Truth Smoothie belongs to category Smoothies. Refreshing greens with a hint of mint, apples, bananas, kale, cucumbers, spinach, and mint leaves smoothies. Our fruity tasty smoothies are blended to perfection. Price is 6.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Aw Shuckie Shuckie Now Smoothie",
+    "description": "Triple berry blend, blueberries, strawberries, raspberries, bananas, non- fat yogurt, carrots, and mango smoothies. Our fruity tasty smoothies are blended to perfection.",
+    "price": "6.49 USD",
+    "id": "food0006",
+    "restaurantId": "rest-7",
+    "rating": 4.1,
+    "reviewCount": 63,
+    "priceValue": 6.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 188,
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Low Carb"
+    ],
+    "content": "Aw Shuckie Shuckie Now Smoothie belongs to category Smoothies. Triple berry blend, blueberries, strawberries, raspberries, bananas, non- fat yogurt, carrots, and mango smoothies. Our fruity tasty smoothies are blended to perfection. Price is 6.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Early Birds Get the Worm Smoothie",
+    "description": "Mango, pineapples, bananas, sweet potato, v s and b special blue blend berry. Our fruity tasty smoothies are blended to perfection.",
+    "price": "5.49 USD",
+    "id": "food0007",
+    "restaurantId": "rest-8",
+    "rating": 4.6,
+    "reviewCount": 102,
+    "priceValue": 5.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 294,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Vegetarian"
+    ],
+    "content": "Early Birds Get the Worm Smoothie belongs to category Smoothies. Mango, pineapples, bananas, sweet potato, v s and b special blue blend berry. Our fruity tasty smoothies are blended to perfection. Price is 5.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Jameria Crush Smoothie",
+    "description": "Detox rocks, pineapple, bananas, cranberry, kale, lemon, and berry mango blend smoothies. Our fruity tasty smoothies are blended to perfection.",
+    "price": "5.49 USD",
+    "id": "food0008",
+    "restaurantId": "rest-9",
+    "rating": 4.3,
+    "reviewCount": 236,
+    "priceValue": 5.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 828,
+    "dietaryTags": [
+      "High Protein",
+      "Gluten-Free",
+      "Vegan"
+    ],
+    "content": "Jameria Crush Smoothie belongs to category Smoothies. Detox rocks, pineapple, bananas, cranberry, kale, lemon, and berry mango blend smoothies. Our fruity tasty smoothies are blended to perfection. Price is 5.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Tongue Teaser Smoothie",
+    "description": "Tropical fruit blend, dragon fruit, pineapples, bananas, mango, apples, spinach, ginger powder. Special green blend, pineapple and ginger smoothies. Our fruity tasty smoothies are blended to perfection.",
+    "price": "6.49 USD",
+    "id": "food0009",
+    "restaurantId": "rest-10",
+    "rating": 5.0,
+    "reviewCount": 136,
+    "priceValue": 6.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 445,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Tongue Teaser Smoothie belongs to category Smoothies. Tropical fruit blend, dragon fruit, pineapples, bananas, mango, apples, spinach, ginger powder. Special green blend, pineapple and ginger smoothies. Our fruity tasty smoothies are blended to perfection. Price is 6.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Groovy Louie Smoothie",
+    "description": "Mango, taro, coconut milk, pineapple juice or lime. Our fruity tasty smoothies are blended to perfection.",
+    "price": "5.49 USD",
+    "id": "food0010",
+    "restaurantId": "rest-1",
+    "rating": 4.8,
+    "reviewCount": 163,
+    "priceValue": 5.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 733,
+    "dietaryTags": [
+      "High Protein",
+      "Low Carb"
+    ],
+    "content": "Groovy Louie Smoothie belongs to category Smoothies. Mango, taro, coconut milk, pineapple juice or lime. Our fruity tasty smoothies are blended to perfection. Price is 5.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "J Wit Da Weezy Smoothie",
+    "description": "Kale, pineapples, peaches, blueberries, and cran blackberries. Our fruity tasty smoothies are blended to perfection.",
+    "price": "6.49 USD",
+    "id": "food0011",
+    "restaurantId": "rest-2",
+    "rating": 4.6,
+    "reviewCount": 323,
+    "priceValue": 6.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 938,
+    "dietaryTags": [
+      "Low Carb"
+    ],
+    "content": "J Wit Da Weezy Smoothie belongs to category Smoothies. Kale, pineapples, peaches, blueberries, and cran blackberries. Our fruity tasty smoothies are blended to perfection. Price is 6.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Dance Wit Ginger Smoothie",
+    "description": "Avocado, blueberries, kale, spinach, and ginger. Special blue and green. Our fruity tasty smoothies are blended to perfection.",
+    "price": "6.49 USD",
+    "id": "food0012",
+    "restaurantId": "rest-3",
+    "rating": 4.1,
+    "reviewCount": 435,
+    "priceValue": 6.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 398,
+    "dietaryTags": [
+      "Vegetarian",
+      "High Protein",
+      "Low Carb"
+    ],
+    "content": "Dance Wit Ginger Smoothie belongs to category Smoothies. Avocado, blueberries, kale, spinach, and ginger. Special blue and green. Our fruity tasty smoothies are blended to perfection. Price is 6.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Taste on Da Tongue Smoothie",
+    "description": "Pineapples, orange, peaches, and coconut water. Our fruity tasty smoothies are blended to perfection.",
+    "price": "5.49 USD",
+    "id": "food0013",
+    "restaurantId": "rest-4",
+    "rating": 3.8,
+    "reviewCount": 312,
+    "priceValue": 5.49,
+    "currency": "USD",
+    "available": false,
+    "calories": 834,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Low Carb"
+    ],
+    "content": "Taste on Da Tongue Smoothie belongs to category Smoothies. Pineapples, orange, peaches, and coconut water. Our fruity tasty smoothies are blended to perfection. Price is 5.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Summer Time Smoothie",
+    "description": "Orange tangerine, tropical sunshine, apricot, craisin, lime, and pineapples. Our fruity tasty smoothies are blended to perfection.",
+    "price": "6.49 USD",
+    "id": "food0014",
+    "restaurantId": "rest-5",
+    "rating": 4.3,
+    "reviewCount": 135,
+    "priceValue": 6.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 616,
+    "dietaryTags": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "content": "Summer Time Smoothie belongs to category Smoothies. Orange tangerine, tropical sunshine, apricot, craisin, lime, and pineapples. Our fruity tasty smoothies are blended to perfection. Price is 6.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "K Blend Smoothie",
+    "description": "Mango, pineapple, peaches pear apricot, cranberry, lemons, lemonade, flaxseeds, and strawberry protein. Our fruity tasty smoothies are blended to perfection.",
+    "price": "8.49 USD",
+    "id": "food0015",
+    "restaurantId": "rest-6",
+    "rating": 4.7,
+    "reviewCount": 173,
+    "priceValue": 8.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 259,
+    "dietaryTags": [
+      "High Protein",
+      "Gluten-Free"
+    ],
+    "content": "K Blend Smoothie belongs to category Smoothies. Mango, pineapple, peaches pear apricot, cranberry, lemons, lemonade, flaxseeds, and strawberry protein. Our fruity tasty smoothies are blended to perfection. Price is 8.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Green Boi",
+    "description": "Banana, strawberry, spinach, yogurt, flax, collagen, ashwagandha, spirulina, and agave. With muscles.",
+    "price": "10.0 USD",
+    "id": "food0016",
+    "restaurantId": "rest-7",
+    "rating": 3.9,
+    "reviewCount": 113,
+    "priceValue": 10.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 473,
+    "dietaryTags": [
+      "Vegan",
+      "Vegetarian",
+      "Low Carb"
+    ],
+    "content": "Green Boi belongs to category Smoothies. Banana, strawberry, spinach, yogurt, flax, collagen, ashwagandha, spirulina, and agave. With muscles. Price is 10.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Go Getter",
+    "description": "banana, peanut butter, raw cacao, cinnamon, hemp seeds, walnuts, almond milk, chocolate vegan protein",
+    "price": "10.8 USD",
+    "id": "food0017",
+    "restaurantId": "rest-8",
+    "rating": 3.8,
+    "reviewCount": 102,
+    "priceValue": 10.8,
+    "currency": "USD",
+    "available": true,
+    "calories": 822,
+    "dietaryTags": [
+      "Low Carb",
+      "Vegetarian",
+      "Vegan"
+    ],
+    "content": "Go Getter belongs to category Smoothies. banana, peanut butter, raw cacao, cinnamon, hemp seeds, walnuts, almond milk, chocolate vegan protein Price is 10.8 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Smoothies",
+    "name": "Cherry Smash",
+    "description": "100% Raspberry Juice, Chocolate, Vanilla Non-Fat Frozen Yogurt, Raspberry Sherbet, Strawberry, Cherry",
+    "price": "7.69 USD",
+    "id": "food0018",
+    "restaurantId": "rest-9",
+    "rating": 4.3,
+    "reviewCount": 205,
+    "priceValue": 7.69,
+    "currency": "USD",
+    "available": true,
+    "calories": 781,
+    "dietaryTags": [
+      "Vegan",
+      "Low Carb",
+      "Gluten-Free"
+    ],
+    "content": "Cherry Smash belongs to category Smoothies. 100% Raspberry Juice, Chocolate, Vanilla Non-Fat Frozen Yogurt, Raspberry Sherbet, Strawberry, Cherry Price is 7.69 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast (All-Day)",
+    "name": "Waffle Omelets",
+    "description": "Eggs, shredded mozzarella, chopped red peppers, chopped broccoli or spinach, andbreakfast sliced sausage.",
+    "price": "6.0 USD",
+    "id": "food0019",
+    "restaurantId": "rest-10",
+    "rating": 3.9,
+    "reviewCount": 226,
+    "priceValue": 6.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 590,
+    "dietaryTags": [
+      "Vegan",
+      "High Protein"
+    ],
+    "content": "Waffle Omelets belongs to category Breakfast (All-Day). Eggs, shredded mozzarella, chopped red peppers, chopped broccoli or spinach, andbreakfast sliced sausage. Price is 6.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast (All-Day)",
+    "name": "Chicken Waffle Sandwich",
+    "description": "Pulled chicken, jalapeno, shredded cabbage, shredded carrot, maple syrup apple cider vinegar, and mayo.",
+    "price": "7.99 USD",
+    "id": "food0020",
+    "restaurantId": "rest-1",
+    "rating": 3.9,
+    "reviewCount": 469,
+    "priceValue": 7.99,
+    "currency": "USD",
+    "available": true,
+    "calories": 658,
+    "dietaryTags": [
+      "Vegetarian",
+      "Low Carb",
+      "Vegan"
+    ],
+    "content": "Chicken Waffle Sandwich belongs to category Breakfast (All-Day). Pulled chicken, jalapeno, shredded cabbage, shredded carrot, maple syrup apple cider vinegar, and mayo. Price is 7.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Lunch",
+    "name": "Kings Hawaiian",
+    "description": "Kaiser roll, turkey, ham, and monterey Jack cheese (French chili). Take a,oad off and relax sip-n-snack at J'ti'z.",
+    "price": "7.29 USD",
+    "id": "food0021",
+    "restaurantId": "rest-2",
+    "rating": 3.8,
+    "reviewCount": 123,
+    "priceValue": 7.29,
+    "currency": "USD",
+    "available": false,
+    "calories": 666,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Kings Hawaiian belongs to category Lunch. Kaiser roll, turkey, ham, and monterey Jack cheese (French chili). Take a,oad off and relax sip-n-snack at J'ti'z. Price is 7.29 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Lunch",
+    "name": "Cuban",
+    "description": "Cuban bread, roast pork, ham, swiss, and slice pickle (honey mustard). Take a,oad off and relax sip-n-snack at J'ti'z.",
+    "price": "7.29 USD",
+    "id": "food0022",
+    "restaurantId": "rest-3",
+    "rating": 4.1,
+    "reviewCount": 63,
+    "priceValue": 7.29,
+    "currency": "USD",
+    "available": true,
+    "calories": 795,
+    "dietaryTags": [
+      "High Protein",
+      "Vegan",
+      "Low Carb"
+    ],
+    "content": "Cuban belongs to category Lunch. Cuban bread, roast pork, ham, swiss, and slice pickle (honey mustard). Take a,oad off and relax sip-n-snack at J'ti'z. Price is 7.29 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Lunch",
+    "name": "Italian",
+    "description": "Tomato basil focaccia, salami, ham, and cheese provolone (feta dressing). Take a,oad off and relax sip-n-snack at J'ti'z.",
+    "price": "7.29 USD",
+    "id": "food0023",
+    "restaurantId": "rest-4",
+    "rating": 4.2,
+    "reviewCount": 144,
+    "priceValue": 7.29,
+    "currency": "USD",
+    "available": true,
+    "calories": 726,
+    "dietaryTags": [
+      "Low Carb",
+      "Vegan",
+      "Vegetarian"
+    ],
+    "content": "Italian belongs to category Lunch. Tomato basil focaccia, salami, ham, and cheese provolone (feta dressing). Take a,oad off and relax sip-n-snack at J'ti'z. Price is 7.29 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Club Salad",
+    "description": "Romaine lettuce topped with crispy bacon, Canadian bacon, Roma tomatoes, whole milk mozzarella, and mild cheddar cheese.",
+    "price": "5.99 USD",
+    "id": "food0024",
+    "restaurantId": "rest-5",
+    "rating": 3.9,
+    "reviewCount": 106,
+    "priceValue": 5.99,
+    "currency": "USD",
+    "available": false,
+    "calories": 561,
+    "dietaryTags": [
+      "Low Carb",
+      "Vegan"
+    ],
+    "content": "Club Salad belongs to category Salad. Romaine lettuce topped with crispy bacon, Canadian bacon, Roma tomatoes, whole milk mozzarella, and mild cheddar cheese. Price is 5.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Mediterranean  Salad",
+    "description": "Romaine lettuce and fresh spinach topped with black olives, sun dried tomatoes, mixed onions, and crumbled feta cheese.",
+    "price": "5.99 USD",
+    "id": "food0025",
+    "restaurantId": "rest-6",
+    "rating": 3.9,
+    "reviewCount": 426,
+    "priceValue": 5.99,
+    "currency": "USD",
+    "available": false,
+    "calories": 310,
+    "dietaryTags": [
+      "Vegetarian",
+      "High Protein"
+    ],
+    "content": "Mediterranean  Salad belongs to category Salad. Romaine lettuce and fresh spinach topped with black olives, sun dried tomatoes, mixed onions, and crumbled feta cheese. Price is 5.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Cobb Salad",
+    "description": "Grilled chicken, tomato, bacon, crumbled bleu cheese, egg, and seasoned croutons served over lettuce with your choice of dressing.",
+    "price": "12.99 USD",
+    "id": "food0026",
+    "restaurantId": "rest-7",
+    "rating": 4.1,
+    "reviewCount": 292,
+    "priceValue": 12.99,
+    "currency": "USD",
+    "available": true,
+    "calories": 518,
+    "dietaryTags": [
+      "Vegan",
+      "Vegetarian",
+      "High Protein"
+    ],
+    "content": "Cobb Salad belongs to category Salad. Grilled chicken, tomato, bacon, crumbled bleu cheese, egg, and seasoned croutons served over lettuce with your choice of dressing. Price is 12.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "House Salad - house dressing",
+    "description": "Salad mix topped with tomato, green peppers, onions, and mushrooms. All served in a large pita bowl.  Add a portion of Chicken shawarma,  steak shawarma, or Gyro for $4.49",
+    "price": "5.49 USD",
+    "id": "food0027",
+    "restaurantId": "rest-8",
+    "rating": 4.7,
+    "reviewCount": 442,
+    "priceValue": 5.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 577,
+    "dietaryTags": [
+      "Low Carb"
+    ],
+    "content": "House Salad - house dressing belongs to category Salad. Salad mix topped with tomato, green peppers, onions, and mushrooms. All served in a large pita bowl.  Add a portion of Chicken shawarma,  steak shawarma, or Gyro for $4.49 Price is 5.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Tabouli Salad",
+    "description": "Parsley, bulgar, tomatoes, and onion, mixed with lemon juice, seasoned and olive oil. Served on lettuce with pita chips. Add a portion of Chicken shawarma,  steak shawarma, or Gyro for $4.49 ",
+    "price": "9.99 USD",
+    "id": "food0028",
+    "restaurantId": "rest-9",
+    "rating": 3.8,
+    "reviewCount": 140,
+    "priceValue": 9.99,
+    "currency": "USD",
+    "available": true,
+    "calories": 129,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Tabouli Salad belongs to category Salad. Parsley, bulgar, tomatoes, and onion, mixed with lemon juice, seasoned and olive oil. Served on lettuce with pita chips. Add a portion of Chicken shawarma,  steak shawarma, or Gyro for $4.49  Price is 9.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Chicken Fattoush",
+    "description": "Chunks of chicken tomato, peppers, onions, and mushrooms. And romaine lettuce and toasted pita tossed with sumac and olive oil topped with feta crumbs.",
+    "price": "11.49 USD",
+    "id": "food0029",
+    "restaurantId": "rest-10",
+    "rating": 3.8,
+    "reviewCount": 240,
+    "priceValue": 11.49,
+    "currency": "USD",
+    "available": false,
+    "calories": 351,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Low Carb"
+    ],
+    "content": "Chicken Fattoush belongs to category Salad. Chunks of chicken tomato, peppers, onions, and mushrooms. And romaine lettuce and toasted pita tossed with sumac and olive oil topped with feta crumbs. Price is 11.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "The Greenhouse Salad",
+    "description": "Mixed greens, romaine, watercress, goat cheese, tomatoes, pickled onion, avocado, salad crunch, and GH goddess.",
+    "price": "8.5 USD",
+    "id": "food0030",
+    "restaurantId": "rest-1",
+    "rating": 4.3,
+    "reviewCount": 274,
+    "priceValue": 8.5,
+    "currency": "USD",
+    "available": true,
+    "calories": 344,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Low Carb"
+    ],
+    "content": "The Greenhouse Salad belongs to category Salad. Mixed greens, romaine, watercress, goat cheese, tomatoes, pickled onion, avocado, salad crunch, and GH goddess. Price is 8.5 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Pretty Good #1",
+    "description": "Romaine, Napa cabbage, watercress, pickled carrots, cucumber, radish, edamame, cashews, and gochujang vin.",
+    "price": "8.5 USD",
+    "id": "food0031",
+    "restaurantId": "rest-2",
+    "rating": 3.9,
+    "reviewCount": 149,
+    "priceValue": 8.5,
+    "currency": "USD",
+    "available": true,
+    "calories": 871,
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "content": "Pretty Good #1 belongs to category Salad. Romaine, Napa cabbage, watercress, pickled carrots, cucumber, radish, edamame, cashews, and gochujang vin. Price is 8.5 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "GH Cobb Salad",
+    "description": "Romaine, kale, watercress, broccoli, tomatoes, pickled onion, egg, bacon, blue cheese, and GH goddess.",
+    "price": "8.5 USD",
+    "id": "food0032",
+    "restaurantId": "rest-3",
+    "rating": 4.3,
+    "reviewCount": 88,
+    "priceValue": 8.5,
+    "currency": "USD",
+    "available": false,
+    "calories": 479,
+    "dietaryTags": [
+      "Gluten-Free",
+      "High Protein"
+    ],
+    "content": "GH Cobb Salad belongs to category Salad. Romaine, kale, watercress, broccoli, tomatoes, pickled onion, egg, bacon, blue cheese, and GH goddess. Price is 8.5 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "The Freek Salad",
+    "description": "Romaine, mixed greens, parsley, tomatoes, cucumber, olives, chickpeas, red onion, pepperoncini, feta, and tahini vin.",
+    "price": "8.0 USD",
+    "id": "food0033",
+    "restaurantId": "rest-4",
+    "rating": 3.9,
+    "reviewCount": 302,
+    "priceValue": 8.0,
+    "currency": "USD",
+    "available": false,
+    "calories": 248,
+    "dietaryTags": [
+      "Low Carb",
+      "Vegan",
+      "High Protein"
+    ],
+    "content": "The Freek Salad belongs to category Salad. Romaine, mixed greens, parsley, tomatoes, cucumber, olives, chickpeas, red onion, pepperoncini, feta, and tahini vin. Price is 8.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Spring Salad",
+    "description": "Mixed Greens, romaine, arugula, sugar snap peas, shaved asparagus, radish, dill, ricotta salata, balsamic vinaigrette. *Recommended with crab cakes!",
+    "price": "8.0 USD",
+    "id": "food0034",
+    "restaurantId": "rest-5",
+    "rating": 4.0,
+    "reviewCount": 69,
+    "priceValue": 8.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 183,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Spring Salad belongs to category Salad. Mixed Greens, romaine, arugula, sugar snap peas, shaved asparagus, radish, dill, ricotta salata, balsamic vinaigrette. *Recommended with crab cakes! Price is 8.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Buffalo Chicken Salad",
+    "description": "Romaine lettuce, tomatoes, bell peppers, onions, cheddar cheese, and croutons with fried chicken tossed in buffalo sauce.",
+    "price": "14.95 USD",
+    "id": "food0035",
+    "restaurantId": "rest-6",
+    "rating": 4.0,
+    "reviewCount": 423,
+    "priceValue": 14.95,
+    "currency": "USD",
+    "available": true,
+    "calories": 696,
+    "dietaryTags": [
+      "Vegan",
+      "Low Carb",
+      "Gluten-Free"
+    ],
+    "content": "Buffalo Chicken Salad belongs to category Salad. Romaine lettuce, tomatoes, bell peppers, onions, cheddar cheese, and croutons with fried chicken tossed in buffalo sauce. Price is 14.95 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Chef Salad",
+    "description": "Romaine lettuce, tomatoes, bell peppers, onions, and cheddar cheese topped with ham, turkey, and bacon.",
+    "price": "14.95 USD",
+    "id": "food0036",
+    "restaurantId": "rest-7",
+    "rating": 4.5,
+    "reviewCount": 380,
+    "priceValue": 14.95,
+    "currency": "USD",
+    "available": false,
+    "calories": 763,
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "content": "Chef Salad belongs to category Salad. Romaine lettuce, tomatoes, bell peppers, onions, and cheddar cheese topped with ham, turkey, and bacon. Price is 14.95 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Spinach Salad",
+    "description": "Spinach, mandarin oranges, feta cheese, almonds, mushrooms, onions, tomatoes, and bell peppers served with balsamic dressing.",
+    "price": "12.95 USD",
+    "id": "food0037",
+    "restaurantId": "rest-8",
+    "rating": 5.0,
+    "reviewCount": 219,
+    "priceValue": 12.95,
+    "currency": "USD",
+    "available": true,
+    "calories": 427,
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free",
+      "Vegetarian"
+    ],
+    "content": "Spinach Salad belongs to category Salad. Spinach, mandarin oranges, feta cheese, almonds, mushrooms, onions, tomatoes, and bell peppers served with balsamic dressing. Price is 12.95 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Grilled Sirloin Tip Garden Salad",
+    "description": "Garden salads are a blend of green leaf and iceberg lettuce with shredded red cabbage, matchstick carrots, cucumbers, cheese, and roma tomatoes.",
+    "price": "13.63 USD",
+    "id": "food0038",
+    "restaurantId": "rest-9",
+    "rating": 4.3,
+    "reviewCount": 54,
+    "priceValue": 13.63,
+    "currency": "USD",
+    "available": true,
+    "calories": 621,
+    "dietaryTags": [
+      "Low Carb"
+    ],
+    "content": "Grilled Sirloin Tip Garden Salad belongs to category Salad. Garden salads are a blend of green leaf and iceberg lettuce with shredded red cabbage, matchstick carrots, cucumbers, cheese, and roma tomatoes. Price is 13.63 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salad",
+    "name": "Grilled Chicken Garden Salad",
+    "description": "Garden salads are a blend of green leaf and iceberg lettuce with shredded red cabbage, matchstick carrots, cucumbers, cheese, and roma tomatoes.",
+    "price": "13.63 USD",
+    "id": "food0039",
+    "restaurantId": "rest-10",
+    "rating": 4.3,
+    "reviewCount": 347,
+    "priceValue": 13.63,
+    "currency": "USD",
+    "available": true,
+    "calories": 125,
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "content": "Grilled Chicken Garden Salad belongs to category Salad. Garden salads are a blend of green leaf and iceberg lettuce with shredded red cabbage, matchstick carrots, cucumbers, cheese, and roma tomatoes. Price is 13.63 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Cold Dishes",
+    "name": "Hamachi Fig",
+    "description": "Hamachi sashimi lightly tossed in a fig sauce with rum raisins, and serrano peppers then topped with fried lotus root.",
+    "price": "16.0 USD",
+    "id": "food0040",
+    "restaurantId": "rest-1",
+    "rating": 4.2,
+    "reviewCount": 216,
+    "priceValue": 16.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 146,
+    "dietaryTags": [
+      "Gluten-Free",
+      "High Protein"
+    ],
+    "content": "Hamachi Fig belongs to category Cold Dishes. Hamachi sashimi lightly tossed in a fig sauce with rum raisins, and serrano peppers then topped with fried lotus root. Price is 16.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Cold Dishes",
+    "name": "Maguro Ringo",
+    "description": "Maguro tossed in anchovy sauce. served with sliced honey crisp apples, and garnished with goat cheese. ",
+    "price": "16.0 USD",
+    "id": "food0041",
+    "restaurantId": "rest-2",
+    "rating": 5.0,
+    "reviewCount": 190,
+    "priceValue": 16.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 688,
+    "dietaryTags": [
+      "Vegan",
+      "Vegetarian",
+      "Low Carb"
+    ],
+    "content": "Maguro Ringo belongs to category Cold Dishes. Maguro tossed in anchovy sauce. served with sliced honey crisp apples, and garnished with goat cheese.  Price is 16.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Hot Dishes",
+    "name": "Nikko",
+    "description": "Smoked Salmon, unagi, tamago, asparagus, avocado, cream cheese, tempura fried, topped with eel sauce.",
+    "price": "16.0 USD",
+    "id": "food0042",
+    "restaurantId": "rest-3",
+    "rating": 4.4,
+    "reviewCount": 153,
+    "priceValue": 16.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 212,
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "content": "Nikko belongs to category Hot Dishes. Smoked Salmon, unagi, tamago, asparagus, avocado, cream cheese, tempura fried, topped with eel sauce. Price is 16.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Hot Dishes",
+    "name": "Beef Udon Noodle Soup",
+    "description": "Served with green onion, beef slices, spinach, crab stick, seaweed, egg, shitaki mushroom and sesame seed.",
+    "price": "11.95 USD",
+    "id": "food0043",
+    "restaurantId": "rest-4",
+    "rating": 4.8,
+    "reviewCount": 315,
+    "priceValue": 11.95,
+    "currency": "USD",
+    "available": true,
+    "calories": 257,
+    "dietaryTags": [
+      "Low Carb"
+    ],
+    "content": "Beef Udon Noodle Soup belongs to category Hot Dishes. Served with green onion, beef slices, spinach, crab stick, seaweed, egg, shitaki mushroom and sesame seed. Price is 11.95 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Hot Dishes",
+    "name": "Shrimp Tempura Udon Noodle Soup",
+    "description": "Served with green onion, spinach, crab stick, seaweed, egg, shitaki mushroom sesame seed and 2 pcs Shrimp Tempura.",
+    "price": "11.95 USD",
+    "id": "food0044",
+    "restaurantId": "rest-5",
+    "rating": 4.1,
+    "reviewCount": 294,
+    "priceValue": 11.95,
+    "currency": "USD",
+    "available": true,
+    "calories": 542,
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "content": "Shrimp Tempura Udon Noodle Soup belongs to category Hot Dishes. Served with green onion, spinach, crab stick, seaweed, egg, shitaki mushroom sesame seed and 2 pcs Shrimp Tempura. Price is 11.95 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Hatsu",
+    "description": "Beef, hot sesame, olive oil, ginger, avocado, cucumber scallions, cilantro, topped with Japanese bbq sauce and sriracha.",
+    "price": "19.0 USD",
+    "id": "food0045",
+    "restaurantId": "rest-6",
+    "rating": 4.4,
+    "reviewCount": 253,
+    "priceValue": 19.0,
+    "currency": "USD",
+    "available": false,
+    "calories": 706,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Hatsu belongs to category Sushi. Beef, hot sesame, olive oil, ginger, avocado, cucumber scallions, cilantro, topped with Japanese bbq sauce and sriracha. Price is 19.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Ginger Albacore ",
+    "description": "Maguro, hamachi, jalapeno, cilantro, topped with avocado and ginger albacore, scallions, ponzu sauce.",
+    "price": "16.0 USD",
+    "id": "food0046",
+    "restaurantId": "rest-7",
+    "rating": 4.7,
+    "reviewCount": 384,
+    "priceValue": 16.0,
+    "currency": "USD",
+    "available": false,
+    "calories": 127,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Vegetarian"
+    ],
+    "content": "Ginger Albacore  belongs to category Sushi. Maguro, hamachi, jalapeno, cilantro, topped with avocado and ginger albacore, scallions, ponzu sauce. Price is 16.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "205 Roll",
+    "description": "Bluefin tuna, green onion, spicy sauce, tempura, topped with bluefin tuna, avocado, sweet soy-reduction, chili paste, sesame seeds",
+    "price": "16.0 USD",
+    "id": "food0047",
+    "restaurantId": "rest-8",
+    "rating": 4.9,
+    "reviewCount": 187,
+    "priceValue": 16.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 708,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Vegetarian",
+      "Low Carb"
+    ],
+    "content": "205 Roll belongs to category Sushi. Bluefin tuna, green onion, spicy sauce, tempura, topped with bluefin tuna, avocado, sweet soy-reduction, chili paste, sesame seeds Price is 16.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Bender Roll",
+    "description": "Deep-fried, smoked salmon, crab salad, cream cheese, topped with mango sauce, sweet soy-reduction, green onion",
+    "price": "17.0 USD",
+    "id": "food0048",
+    "restaurantId": "rest-9",
+    "rating": 4.2,
+    "reviewCount": 113,
+    "priceValue": 17.0,
+    "currency": "USD",
+    "available": false,
+    "calories": 938,
+    "dietaryTags": [
+      "High Protein",
+      "Vegetarian",
+      "Low Carb"
+    ],
+    "content": "Bender Roll belongs to category Sushi. Deep-fried, smoked salmon, crab salad, cream cheese, topped with mango sauce, sweet soy-reduction, green onion Price is 17.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Buffalo Roll",
+    "description": "Spicy tuna tartare, tempura, topped with avocado, bacon, jalapeno, sweet soy-reduction, sriracha, green onion, tobiko, sesame seeds",
+    "price": "19.0 USD",
+    "id": "food0049",
+    "restaurantId": "rest-10",
+    "rating": 3.9,
+    "reviewCount": 207,
+    "priceValue": 19.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 463,
+    "dietaryTags": [
+      "Low Carb",
+      "Gluten-Free"
+    ],
+    "content": "Buffalo Roll belongs to category Sushi. Spicy tuna tartare, tempura, topped with avocado, bacon, jalapeno, sweet soy-reduction, sriracha, green onion, tobiko, sesame seeds Price is 19.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Caipirinha Roll",
+    "description": "Hamachi, green onion, cucumber, spicy mayo, tempura, topped with fresh salmon, jalapeno, lemon slices, tobiko, sweet soy-reduction, sriracha, sesame seeds",
+    "price": "20.0 USD",
+    "id": "food0050",
+    "restaurantId": "rest-1",
+    "rating": 4.0,
+    "reviewCount": 266,
+    "priceValue": 20.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 191,
+    "dietaryTags": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "content": "Caipirinha Roll belongs to category Sushi. Hamachi, green onion, cucumber, spicy mayo, tempura, topped with fresh salmon, jalapeno, lemon slices, tobiko, sweet soy-reduction, sriracha, sesame seeds Price is 20.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Cash Me Out Roll",
+    "description": "Baked, shrimp, green onion, tempura, spicy sauce, topped with crab stick, sweet soy-reduction, chili paste",
+    "price": "19.0 USD",
+    "id": "food0051",
+    "restaurantId": "rest-2",
+    "rating": 4.2,
+    "reviewCount": 41,
+    "priceValue": 19.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 777,
+    "dietaryTags": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-Free"
+    ],
+    "content": "Cash Me Out Roll belongs to category Sushi. Baked, shrimp, green onion, tempura, spicy sauce, topped with crab stick, sweet soy-reduction, chili paste Price is 19.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Double Trouble Roll",
+    "description": "Bluefin tuna, cream cheese, spicy sauce, green onion, tempura, topped with avocado, baked seafood, japanese mayo, sweet soy-reduction, sriracha, tobiko, sesame seeds",
+    "price": "20.0 USD",
+    "id": "food0052",
+    "restaurantId": "rest-3",
+    "rating": 4.6,
+    "reviewCount": 41,
+    "priceValue": 20.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 660,
+    "dietaryTags": [
+      "High Protein",
+      "Low Carb"
+    ],
+    "content": "Double Trouble Roll belongs to category Sushi. Bluefin tuna, cream cheese, spicy sauce, green onion, tempura, topped with avocado, baked seafood, japanese mayo, sweet soy-reduction, sriracha, tobiko, sesame seeds Price is 20.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "H2 Roll",
+    "description": "Bluefin tuna, hamachi, cucumber, spicy sauce, jalapeno, topped with avocado, spicy salmon, jalapeno, sweet soy-reduction, tobiko",
+    "price": "19.0 USD",
+    "id": "food0053",
+    "restaurantId": "rest-4",
+    "rating": 4.2,
+    "reviewCount": 406,
+    "priceValue": 19.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 459,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Vegan",
+      "High Protein"
+    ],
+    "content": "H2 Roll belongs to category Sushi. Bluefin tuna, hamachi, cucumber, spicy sauce, jalapeno, topped with avocado, spicy salmon, jalapeno, sweet soy-reduction, tobiko Price is 19.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Jumanji Roll",
+    "description": "Shrimp, green onion, cream cheese, tempura, spicy mayo, topped with bluefin tuna, avocado, crab salad",
+    "price": "19.0 USD",
+    "id": "food0054",
+    "restaurantId": "rest-5",
+    "rating": 4.9,
+    "reviewCount": 105,
+    "priceValue": 19.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 751,
+    "dietaryTags": [
+      "High Protein",
+      "Gluten-Free",
+      "Vegetarian"
+    ],
+    "content": "Jumanji Roll belongs to category Sushi. Shrimp, green onion, cream cheese, tempura, spicy mayo, topped with bluefin tuna, avocado, crab salad Price is 19.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Lakeview Roll",
+    "description": "Fried shrimp, cream cheese, spicy sauce, topped with crab stick, spicy mayo, masago, sweet soy-reduction",
+    "price": "18.0 USD",
+    "id": "food0055",
+    "restaurantId": "rest-6",
+    "rating": 4.4,
+    "reviewCount": 298,
+    "priceValue": 18.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 516,
+    "dietaryTags": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "content": "Lakeview Roll belongs to category Sushi. Fried shrimp, cream cheese, spicy sauce, topped with crab stick, spicy mayo, masago, sweet soy-reduction Price is 18.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Last Call Roll",
+    "description": "Deep-fried, cream cheese, spicy sauce, green onion, avocado, spicy tuna, crab salad, topped with japanese mayo, sweet soy-reduction, sriracha, tobiko, sesame seeds",
+    "price": "19.0 USD",
+    "id": "food0056",
+    "restaurantId": "rest-7",
+    "rating": 4.9,
+    "reviewCount": 86,
+    "priceValue": 19.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 749,
+    "dietaryTags": [
+      "Vegan"
+    ],
+    "content": "Last Call Roll belongs to category Sushi. Deep-fried, cream cheese, spicy sauce, green onion, avocado, spicy tuna, crab salad, topped with japanese mayo, sweet soy-reduction, sriracha, tobiko, sesame seeds Price is 19.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Open Tab Roll",
+    "description": "Deep-fried, crab salad, cream cheese, avocado, topped with spicy mayo, green onion, sweet soy-reduction",
+    "price": "16.0 USD",
+    "id": "food0057",
+    "restaurantId": "rest-8",
+    "rating": 4.7,
+    "reviewCount": 439,
+    "priceValue": 16.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 627,
+    "dietaryTags": [
+      "Vegetarian",
+      "High Protein",
+      "Gluten-Free"
+    ],
+    "content": "Open Tab Roll belongs to category Sushi. Deep-fried, crab salad, cream cheese, avocado, topped with spicy mayo, green onion, sweet soy-reduction Price is 16.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Robin Roll",
+    "description": "Hamachi, eel, green onion, spicy sauce, cucumber, topped with fresh salmon, avocado, jalapeno, sriracha, masago, sweet soy-reduction, sesame seeds",
+    "price": "20.0 USD",
+    "id": "food0058",
+    "restaurantId": "rest-9",
+    "rating": 4.7,
+    "reviewCount": 81,
+    "priceValue": 20.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 748,
+    "dietaryTags": [
+      "Vegetarian",
+      "Vegan",
+      "High Protein"
+    ],
+    "content": "Robin Roll belongs to category Sushi. Hamachi, eel, green onion, spicy sauce, cucumber, topped with fresh salmon, avocado, jalapeno, sriracha, masago, sweet soy-reduction, sesame seeds Price is 20.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "The Hangover Roll",
+    "description": "Deep-fried, cream cheese, spicy sauce, green onion, avocado, spicy tuna, crab salad, topped with japanese mayo, baked seafood, sweet soy-reduction, sriracha, tobiko, sesame seeds",
+    "price": "24.0 USD",
+    "id": "food0059",
+    "restaurantId": "rest-10",
+    "rating": 4.9,
+    "reviewCount": 343,
+    "priceValue": 24.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 571,
+    "dietaryTags": [
+      "Low Carb",
+      "High Protein",
+      "Vegan"
+    ],
+    "content": "The Hangover Roll belongs to category Sushi. Deep-fried, cream cheese, spicy sauce, green onion, avocado, spicy tuna, crab salad, topped with japanese mayo, baked seafood, sweet soy-reduction, sriracha, tobiko, sesame seeds Price is 24.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "The Welden Roll",
+    "description": "Bluefin tuna, hamachi, green onion, cucumber, topped with salmon, avocado, jalapeno, ikura, tobiko, mango sauce, sriracha, sweet soy-reduction",
+    "price": "21.0 USD",
+    "id": "food0060",
+    "restaurantId": "rest-1",
+    "rating": 4.4,
+    "reviewCount": 229,
+    "priceValue": 21.0,
+    "currency": "USD",
+    "available": false,
+    "calories": 236,
+    "dietaryTags": [
+      "Vegan",
+      "Vegetarian"
+    ],
+    "content": "The Welden Roll belongs to category Sushi. Bluefin tuna, hamachi, green onion, cucumber, topped with salmon, avocado, jalapeno, ikura, tobiko, mango sauce, sriracha, sweet soy-reduction Price is 21.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "UMAMI Roll",
+    "description": "Hamachi, spicy sauce, apples, green onion, topped with bluefin tuna, avocado, sweet soy-reduction, tobiko, jalapeno, lime zest, sriracha, sesame seeds",
+    "price": "21.0 USD",
+    "id": "food0061",
+    "restaurantId": "rest-2",
+    "rating": 4.2,
+    "reviewCount": 275,
+    "priceValue": 21.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 667,
+    "dietaryTags": [
+      "Vegan",
+      "Vegetarian"
+    ],
+    "content": "UMAMI Roll belongs to category Sushi. Hamachi, spicy sauce, apples, green onion, topped with bluefin tuna, avocado, sweet soy-reduction, tobiko, jalapeno, lime zest, sriracha, sesame seeds Price is 21.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "Volcano Roll",
+    "description": "Baked, smoked salmon, shrimp tempura, topped with crab salad, spicy sauce, sweet soy-reduction, japanese mayo, green onion",
+    "price": "19.0 USD",
+    "id": "food0062",
+    "restaurantId": "rest-3",
+    "rating": 4.3,
+    "reviewCount": 165,
+    "priceValue": 19.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 483,
+    "dietaryTags": [
+      "Vegan"
+    ],
+    "content": "Volcano Roll belongs to category Sushi. Baked, smoked salmon, shrimp tempura, topped with crab salad, spicy sauce, sweet soy-reduction, japanese mayo, green onion Price is 19.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "W.T.F Roll",
+    "description": "Bluefin tuna, crab salad, green onion, cucumber, topped with bluefin tuna, masago, sweet, spicy, sour sauce",
+    "price": "25.0 USD",
+    "id": "food0063",
+    "restaurantId": "rest-4",
+    "rating": 4.1,
+    "reviewCount": 498,
+    "priceValue": 25.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 167,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "W.T.F Roll belongs to category Sushi. Bluefin tuna, crab salad, green onion, cucumber, topped with bluefin tuna, masago, sweet, spicy, sour sauce Price is 25.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sushi",
+    "name": "California Roll",
+    "description": "No sauce. Crabstick, avocado, cucumber and masago. Make it deep-fried with eel sauce for an additional charge.",
+    "price": "5.0 USD",
+    "id": "food0064",
+    "restaurantId": "rest-5",
+    "rating": 4.3,
+    "reviewCount": 193,
+    "priceValue": 5.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 498,
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "content": "California Roll belongs to category Sushi. No sauce. Crabstick, avocado, cucumber and masago. Make it deep-fried with eel sauce for an additional charge. Price is 5.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "The Giant Fish Sandwich and Side",
+    "description": "Two batter dipped fish fillets on a toasty bun with cracklins, tangy tartar sauce, and shredded lettuce",
+    "price": "7.99 USD",
+    "id": "food0065",
+    "restaurantId": "rest-6",
+    "rating": 3.9,
+    "reviewCount": 183,
+    "priceValue": 7.99,
+    "currency": "USD",
+    "available": true,
+    "calories": 445,
+    "dietaryTags": [
+      "Low Carb",
+      "Gluten-Free"
+    ],
+    "content": "The Giant Fish Sandwich and Side belongs to category Sandwiches. Two batter dipped fish fillets on a toasty bun with cracklins, tangy tartar sauce, and shredded lettuce Price is 7.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "NEW The Signature Take Chicken Sandwich",
+    "description": "560 Cal. Seasoned and seared chicken breast, parmesan crisps, emerald greens and garlic aioli on a brioche roll. Allergens: Contains Wheat, Milk, Egg. May contain Soy",
+    "price": "12.89 USD",
+    "id": "food0066",
+    "restaurantId": "rest-7",
+    "rating": 4.1,
+    "reviewCount": 287,
+    "priceValue": 12.89,
+    "currency": "USD",
+    "available": false,
+    "calories": 657,
+    "dietaryTags": [
+      "High Protein",
+      "Vegan"
+    ],
+    "content": "NEW The Signature Take Chicken Sandwich belongs to category Sandwiches. 560 Cal. Seasoned and seared chicken breast, parmesan crisps, emerald greens and garlic aioli on a brioche roll. Allergens: Contains Wheat, Milk, Egg. May contain Soy Price is 12.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "NEW The Spicy Take Chicken Sandwich",
+    "description": "570 Cal. Seasoned and seared chicken breast, spicy Buffalo sauce, crispy pickle chips, and garlic aioli on a brioche roll. Allergens: Contains Wheat, Milk, Egg. May contain Soy",
+    "price": "12.89 USD",
+    "id": "food0067",
+    "restaurantId": "rest-8",
+    "rating": 4.4,
+    "reviewCount": 349,
+    "priceValue": 12.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 148,
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "content": "NEW The Spicy Take Chicken Sandwich belongs to category Sandwiches. 570 Cal. Seasoned and seared chicken breast, spicy Buffalo sauce, crispy pickle chips, and garlic aioli on a brioche roll. Allergens: Contains Wheat, Milk, Egg. May contain Soy Price is 12.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Toasted Frontega Chicken",
+    "description": "Whole (830 Cal.), Half (420 Cal.) Smoked, pulled chicken raised without antibiotics, fresh mozzarella, salt and pepper, vine-ripened tomatoes, red onions, fresh basil and chipotle sauce on Black Pepper Focaccia. Allergens: Contains Wheat, Milk, Egg",
+    "price": "8.79 USD",
+    "id": "food0068",
+    "restaurantId": "rest-9",
+    "rating": 4.8,
+    "reviewCount": 266,
+    "priceValue": 8.79,
+    "currency": "USD",
+    "available": true,
+    "calories": 256,
+    "dietaryTags": [
+      "Low Carb",
+      "Vegetarian"
+    ],
+    "content": "Toasted Frontega Chicken belongs to category Sandwiches. Whole (830 Cal.), Half (420 Cal.) Smoked, pulled chicken raised without antibiotics, fresh mozzarella, salt and pepper, vine-ripened tomatoes, red onions, fresh basil and chipotle sauce on Black Pepper Focaccia. Allergens: Contains Wheat, Milk, Egg Price is 8.79 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Bacon Turkey Bravo Sandwich",
+    "description": "Whole (1010 Cal.), Half (500 Cal.) Oven-roasted turkey breast raised without antibiotics, Applewood-smoked bacon, smoked Gouda, emerald greens, vine-ripened tomatoes, signature sauce , salt and pepper on Tomato Basil Bread. Allergens: Contains Wheat, Milk, Egg",
+    "price": "8.79 USD",
+    "id": "food0069",
+    "restaurantId": "rest-10",
+    "rating": 4.9,
+    "reviewCount": 367,
+    "priceValue": 8.79,
+    "currency": "USD",
+    "available": true,
+    "calories": 742,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Bacon Turkey Bravo Sandwich belongs to category Sandwiches. Whole (1010 Cal.), Half (500 Cal.) Oven-roasted turkey breast raised without antibiotics, Applewood-smoked bacon, smoked Gouda, emerald greens, vine-ripened tomatoes, signature sauce , salt and pepper on Tomato Basil Bread. Allergens: Contains Wheat, Milk, Egg Price is 8.79 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Classic Grilled Cheese Sandwich",
+    "description": "Whole (870 Cal.), Half (440 Cal.) Sliced American cheese grilled on thick-sliced Classic White Miche. Allergens: Contains Wheat, Milk",
+    "price": "6.19 USD",
+    "id": "food0070",
+    "restaurantId": "rest-1",
+    "rating": 3.9,
+    "reviewCount": 463,
+    "priceValue": 6.19,
+    "currency": "USD",
+    "available": false,
+    "calories": 426,
+    "dietaryTags": [
+      "Vegan",
+      "Vegetarian"
+    ],
+    "content": "Classic Grilled Cheese Sandwich belongs to category Sandwiches. Whole (870 Cal.), Half (440 Cal.) Sliced American cheese grilled on thick-sliced Classic White Miche. Allergens: Contains Wheat, Milk Price is 6.19 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Smokehouse BBQ Chicken Sandwich",
+    "description": "Whole (760 Cal.), Half (380 Cal.) Smoked, pulled chicken raised without antibiotics, BBQ sauce, red onions, aged white cheddar, and frizzled onions on Classic White Miche. Allergens: Contains Wheat, Milk",
+    "price": "7.19 USD",
+    "id": "food0071",
+    "restaurantId": "rest-2",
+    "rating": 4.5,
+    "reviewCount": 221,
+    "priceValue": 7.19,
+    "currency": "USD",
+    "available": true,
+    "calories": 379,
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free",
+      "High Protein"
+    ],
+    "content": "Smokehouse BBQ Chicken Sandwich belongs to category Sandwiches. Whole (760 Cal.), Half (380 Cal.) Smoked, pulled chicken raised without antibiotics, BBQ sauce, red onions, aged white cheddar, and frizzled onions on Classic White Miche. Allergens: Contains Wheat, Milk Price is 7.19 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Napa Almond Chicken Salad Sandwich",
+    "description": "Whole (620 Cal.), Half (310 Cal.) Chicken raised without antibiotics tossed with diced celery, sliced red grapes, toasted almonds and special dressing, served with emerald greens, vine-ripened tomatoes, salt and pepper on Country Rustic Sourdough. Allergens: Contains Wheat, Egg, Tree Nuts",
+    "price": "7.19 USD",
+    "id": "food0072",
+    "restaurantId": "rest-3",
+    "rating": 4.7,
+    "reviewCount": 36,
+    "priceValue": 7.19,
+    "currency": "USD",
+    "available": false,
+    "calories": 779,
+    "dietaryTags": [
+      "Low Carb",
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "content": "Napa Almond Chicken Salad Sandwich belongs to category Sandwiches. Whole (620 Cal.), Half (310 Cal.) Chicken raised without antibiotics tossed with diced celery, sliced red grapes, toasted almonds and special dressing, served with emerald greens, vine-ripened tomatoes, salt and pepper on Country Rustic Sourdough. Allergens: Contains Wheat, Egg, Tree Nuts Price is 7.19 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Tuna Salad Sandwich",
+    "description": "Whole (740 Cal.), Half (370 Cal.) Special recipe tuna salad, emerald greens, vine-ripened tomatoes, red onions, salt and pepper on Black Pepper Foccacia. Allergens: Contains Wheat, Egg, Fish",
+    "price": "7.19 USD",
+    "id": "food0073",
+    "restaurantId": "rest-4",
+    "rating": 3.8,
+    "reviewCount": 172,
+    "priceValue": 7.19,
+    "currency": "USD",
+    "available": false,
+    "calories": 344,
+    "dietaryTags": [
+      "Vegetarian",
+      "Low Carb"
+    ],
+    "content": "Tuna Salad Sandwich belongs to category Sandwiches. Whole (740 Cal.), Half (370 Cal.) Special recipe tuna salad, emerald greens, vine-ripened tomatoes, red onions, salt and pepper on Black Pepper Foccacia. Allergens: Contains Wheat, Egg, Fish Price is 7.19 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Deli Turkey Sandwich",
+    "description": "Whole (590 Cal.), Half (300 Cal.) Oven-roasted turkey breast raised without antibiotics, emerald greens, vine-ripened tomatoes, red onions, mayo, spicy mustard, salt and pepper on Country Rustic Sourdough. Allergens: Contains Wheat, Egg",
+    "price": "7.19 USD",
+    "id": "food0074",
+    "restaurantId": "rest-5",
+    "rating": 5.0,
+    "reviewCount": 241,
+    "priceValue": 7.19,
+    "currency": "USD",
+    "available": true,
+    "calories": 556,
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "content": "Deli Turkey Sandwich belongs to category Sandwiches. Whole (590 Cal.), Half (300 Cal.) Oven-roasted turkey breast raised without antibiotics, emerald greens, vine-ripened tomatoes, red onions, mayo, spicy mustard, salt and pepper on Country Rustic Sourdough. Allergens: Contains Wheat, Egg Price is 7.19 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Family Feast with Cookies",
+    "description": "A meal to feed the whole family, including 4 half sandwiches, 1 whole salad, 1 group soup, 1 whole French baguette and 4 Chocolate Chipper Cookies. Serves 4-6.",
+    "price": "41.09 USD",
+    "id": "food0075",
+    "restaurantId": "rest-6",
+    "rating": 4.2,
+    "reviewCount": 397,
+    "priceValue": 41.09,
+    "currency": "USD",
+    "available": true,
+    "calories": 867,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Family Feast with Cookies belongs to category Sandwiches. A meal to feed the whole family, including 4 half sandwiches, 1 whole salad, 1 group soup, 1 whole French baguette and 4 Chocolate Chipper Cookies. Serves 4-6. Price is 41.09 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Family Feast",
+    "description": "A meal to feed the whole family, including 4 half sandwiches, 1 whole salad, 1 group soup and 1 whole French baguette. Serves 4-6.",
+    "price": "36.39 USD",
+    "id": "food0076",
+    "restaurantId": "rest-7",
+    "rating": 4.6,
+    "reviewCount": 168,
+    "priceValue": 36.39,
+    "currency": "USD",
+    "available": true,
+    "calories": 537,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Vegetarian"
+    ],
+    "content": "Family Feast belongs to category Sandwiches. A meal to feed the whole family, including 4 half sandwiches, 1 whole salad, 1 group soup and 1 whole French baguette. Serves 4-6. Price is 36.39 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Premium Family Feast with Cookies",
+    "description": "A meal to feed the whole family. Includes 4 Half Sandwiches, 1 Whole Salad, 1 Quart of Soup, 1 Whole French Baguette, and 4 Chocolate Chippers. Serves 4-6.",
+    "price": "45.79 USD",
+    "id": "food0077",
+    "restaurantId": "rest-8",
+    "rating": 3.9,
+    "reviewCount": 246,
+    "priceValue": 45.79,
+    "currency": "USD",
+    "available": true,
+    "calories": 467,
+    "dietaryTags": [
+      "Vegan",
+      "Low Carb"
+    ],
+    "content": "Premium Family Feast with Cookies belongs to category Sandwiches. A meal to feed the whole family. Includes 4 Half Sandwiches, 1 Whole Salad, 1 Quart of Soup, 1 Whole French Baguette, and 4 Chocolate Chippers. Serves 4-6. Price is 45.79 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Premium Family Feast",
+    "description": "A meal to feed the whole family. Includes 4 Half Sandwiches, 1 Whole Salad, 1 Quart of Soup, and 1 Whole French Baguette. Serves 4-6.",
+    "price": "41.09 USD",
+    "id": "food0078",
+    "restaurantId": "rest-9",
+    "rating": 4.7,
+    "reviewCount": 278,
+    "priceValue": 41.09,
+    "currency": "USD",
+    "available": false,
+    "calories": 300,
+    "dietaryTags": [
+      "Low Carb"
+    ],
+    "content": "Premium Family Feast belongs to category Sandwiches. A meal to feed the whole family. Includes 4 Half Sandwiches, 1 Whole Salad, 1 Quart of Soup, and 1 Whole French Baguette. Serves 4-6. Price is 41.09 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Golden Temple Sandwich",
+    "description": "Served with sprouts, swiss, and tomato. Choice of guacamole or hummus. Choice of mushroom or olives. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price": "10.0 USD",
+    "id": "food0079",
+    "restaurantId": "rest-10",
+    "rating": 4.8,
+    "reviewCount": 241,
+    "priceValue": 10.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 793,
+    "dietaryTags": [
+      "Vegan",
+      "Vegetarian",
+      "Low Carb"
+    ],
+    "content": "Golden Temple Sandwich belongs to category Sandwiches. Served with sprouts, swiss, and tomato. Choice of guacamole or hummus. Choice of mushroom or olives. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips. Price is 10.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Beyond Burger",
+    "description": "Served with Romaine lettuce, tomato, pickle, vegan mayonnaise, ketchup, and mustard on a toasted bun. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price": "9.0 USD",
+    "id": "food0080",
+    "restaurantId": "rest-1",
+    "rating": 4.3,
+    "reviewCount": 183,
+    "priceValue": 9.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 408,
+    "dietaryTags": [
+      "High Protein",
+      "Low Carb"
+    ],
+    "content": "Beyond Burger belongs to category Sandwiches. Served with Romaine lettuce, tomato, pickle, vegan mayonnaise, ketchup, and mustard on a toasted bun. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips. Price is 9.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Boca Chik'n Sandwich",
+    "description": "Served with Romaine lettuce, tomato, pickle, vegan mayonnaise, ketchup, and mustard on a toasted bun. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price": "9.0 USD",
+    "id": "food0081",
+    "restaurantId": "rest-2",
+    "rating": 4.0,
+    "reviewCount": 30,
+    "priceValue": 9.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 484,
+    "dietaryTags": [
+      "Vegan"
+    ],
+    "content": "Boca Chik'n Sandwich belongs to category Sandwiches. Served with Romaine lettuce, tomato, pickle, vegan mayonnaise, ketchup, and mustard on a toasted bun. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips. Price is 9.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Guacamole Sandwich",
+    "description": "Served with Romaine lettuce, tomato, Swiss, vegan mayonnaise, and mustard. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price": "9.0 USD",
+    "id": "food0082",
+    "restaurantId": "rest-3",
+    "rating": 4.0,
+    "reviewCount": 221,
+    "priceValue": 9.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 403,
+    "dietaryTags": [
+      "High Protein",
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "content": "Guacamole Sandwich belongs to category Sandwiches. Served with Romaine lettuce, tomato, Swiss, vegan mayonnaise, and mustard. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips. Price is 9.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Hummus Sandwich",
+    "description": "Served with Romaine lettuce, tomato, Swiss, vegan mayonnaise, and mustard. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price": "9.0 USD",
+    "id": "food0083",
+    "restaurantId": "rest-4",
+    "rating": 4.7,
+    "reviewCount": 65,
+    "priceValue": 9.0,
+    "currency": "USD",
+    "available": false,
+    "calories": 814,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Hummus Sandwich belongs to category Sandwiches. Served with Romaine lettuce, tomato, Swiss, vegan mayonnaise, and mustard. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips. Price is 9.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Tofu Salad Sandwich",
+    "description": "Served with Romaine lettuce, tomato, vegan mayonnaise, and mustard. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price": "9.0 USD",
+    "id": "food0084",
+    "restaurantId": "rest-5",
+    "rating": 4.8,
+    "reviewCount": 436,
+    "priceValue": 9.0,
+    "currency": "USD",
+    "available": false,
+    "calories": 248,
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "content": "Tofu Salad Sandwich belongs to category Sandwiches. Served with Romaine lettuce, tomato, vegan mayonnaise, and mustard. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips. Price is 9.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Caramelized Jamun and Rabdi",
+    "description": "Gulab jamun served with sweet, condensed-milk based dish rabdi, made by boiling milk on low heat for a long time.",
+    "price": "10.35 USD",
+    "id": "food0085",
+    "restaurantId": "rest-6",
+    "rating": 4.5,
+    "reviewCount": 188,
+    "priceValue": 10.35,
+    "currency": "USD",
+    "available": true,
+    "calories": 735,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Low Carb"
+    ],
+    "content": "Caramelized Jamun and Rabdi belongs to category Desserts. Gulab jamun served with sweet, condensed-milk based dish rabdi, made by boiling milk on low heat for a long time. Price is 10.35 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Kulfi",
+    "description": "The traditional Indian ice cream, served on a bed of dessert noodles and garnished with nuts and mughlai rose syrup",
+    "price": "8.05 USD",
+    "id": "food0086",
+    "restaurantId": "rest-7",
+    "rating": 4.0,
+    "reviewCount": 380,
+    "priceValue": 8.05,
+    "currency": "USD",
+    "available": false,
+    "calories": 169,
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free",
+      "Low Carb"
+    ],
+    "content": "Kulfi belongs to category Desserts. The traditional Indian ice cream, served on a bed of dessert noodles and garnished with nuts and mughlai rose syrup Price is 8.05 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Unicorn Churros",
+    "description": "Our churros just became magical! They are baked to perfection, and dusted with cotton candy, sour apple, and blue raspberry sugar.",
+    "price": "5.49 USD",
+    "id": "food0087",
+    "restaurantId": "rest-8",
+    "rating": 3.8,
+    "reviewCount": 423,
+    "priceValue": 5.49,
+    "currency": "USD",
+    "available": false,
+    "calories": 698,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Low Carb"
+    ],
+    "content": "Unicorn Churros belongs to category Desserts. Our churros just became magical! They are baked to perfection, and dusted with cotton candy, sour apple, and blue raspberry sugar. Price is 5.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Cotton Candy",
+    "description": "You will receive a \"surprise\" cotton candy flavor of either Pink Vanilla, Blue Raspberry or Green Sour Apple. ",
+    "price": "3.39 USD",
+    "id": "food0088",
+    "restaurantId": "rest-9",
+    "rating": 4.7,
+    "reviewCount": 97,
+    "priceValue": 3.39,
+    "currency": "USD",
+    "available": true,
+    "calories": 265,
+    "dietaryTags": [
+      "Gluten-Free",
+      "High Protein"
+    ],
+    "content": "Cotton Candy belongs to category Desserts. You will receive a \"surprise\" cotton candy flavor of either Pink Vanilla, Blue Raspberry or Green Sour Apple.  Price is 3.39 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Banana Burrito",
+    "description": "A banana wrapped in a flour tortilla, deep-fried to golden brown, topped with honey and cinnamon. Served with ice cream.",
+    "price": "4.95 USD",
+    "id": "food0089",
+    "restaurantId": "rest-10",
+    "rating": 4.6,
+    "reviewCount": 350,
+    "priceValue": 4.95,
+    "currency": "USD",
+    "available": true,
+    "calories": 818,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Low Carb",
+      "Vegetarian"
+    ],
+    "content": "Banana Burrito belongs to category Desserts. A banana wrapped in a flour tortilla, deep-fried to golden brown, topped with honey and cinnamon. Served with ice cream. Price is 4.95 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Apple Crisp",
+    "description": "Granny smith apple filling served with vanilla bean ice cream and finished with crunchy oat topping.  ",
+    "price": "9.0 USD",
+    "id": "food0090",
+    "restaurantId": "rest-1",
+    "rating": 3.8,
+    "reviewCount": 82,
+    "priceValue": 9.0,
+    "currency": "USD",
+    "available": false,
+    "calories": 917,
+    "dietaryTags": [
+      "Low Carb",
+      "Vegetarian"
+    ],
+    "content": "Apple Crisp belongs to category Desserts. Granny smith apple filling served with vanilla bean ice cream and finished with crunchy oat topping.   Price is 9.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Fried Cheesecake",
+    "description": "Fried 8 inch flour tortilla filled with cheesecake filling and topped with powdered sugar and strawberry pie filling.",
+    "price": "3.99 USD",
+    "id": "food0091",
+    "restaurantId": "rest-2",
+    "rating": 3.9,
+    "reviewCount": 159,
+    "priceValue": 3.99,
+    "currency": "USD",
+    "available": true,
+    "calories": 861,
+    "dietaryTags": [
+      "High Protein",
+      "Gluten-Free",
+      "Vegan"
+    ],
+    "content": "Fried Cheesecake belongs to category Desserts. Fried 8 inch flour tortilla filled with cheesecake filling and topped with powdered sugar and strawberry pie filling. Price is 3.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Signature Panookie",
+    "description": "Warm chocolate chip cookie filled with molten chocolate and topped with premium vanilla ice cream and salted caramel.",
+    "price": "5.18 USD",
+    "id": "food0092",
+    "restaurantId": "rest-3",
+    "rating": 4.0,
+    "reviewCount": 144,
+    "priceValue": 5.18,
+    "currency": "USD",
+    "available": true,
+    "calories": 718,
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "content": "Signature Panookie belongs to category Desserts. Warm chocolate chip cookie filled with molten chocolate and topped with premium vanilla ice cream and salted caramel. Price is 5.18 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "New Double Cobblers",
+    "description": "Apple, Peach or Blackberry baked cobblers with a tender flaky crust ~ enough to share. Mix it up ~ Choose one or two flavors.",
+    "price": "6.49 USD",
+    "id": "food0093",
+    "restaurantId": "rest-4",
+    "rating": 4.2,
+    "reviewCount": 309,
+    "priceValue": 6.49,
+    "currency": "USD",
+    "available": true,
+    "calories": 696,
+    "dietaryTags": [
+      "High Protein",
+      "Low Carb"
+    ],
+    "content": "New Double Cobblers belongs to category Desserts. Apple, Peach or Blackberry baked cobblers with a tender flaky crust ~ enough to share. Mix it up ~ Choose one or two flavors. Price is 6.49 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Strawberry Cheesecake",
+    "description": "One of our Seasonal Favorites! Creamy cheesecake topped with fresh strawberries in a sauce, served with whipped cream.",
+    "price": "7.59 USD",
+    "id": "food0094",
+    "restaurantId": "rest-5",
+    "rating": 4.6,
+    "reviewCount": 493,
+    "priceValue": 7.59,
+    "currency": "USD",
+    "available": true,
+    "calories": 244,
+    "dietaryTags": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "content": "Strawberry Cheesecake belongs to category Desserts. One of our Seasonal Favorites! Creamy cheesecake topped with fresh strawberries in a sauce, served with whipped cream. Price is 7.59 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "French Silk Pie - Slice",
+    "description": "Semi-sweet chocolate blended into a velvety, smooth filling. Topped with whipped cream and chocolate morsels.",
+    "price": "5.39 USD",
+    "id": "food0095",
+    "restaurantId": "rest-6",
+    "rating": 4.9,
+    "reviewCount": 100,
+    "priceValue": 5.39,
+    "currency": "USD",
+    "available": false,
+    "calories": 166,
+    "dietaryTags": [
+      "Vegan"
+    ],
+    "content": "French Silk Pie - Slice belongs to category Desserts. Semi-sweet chocolate blended into a velvety, smooth filling. Topped with whipped cream and chocolate morsels. Price is 5.39 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Key Lime Pie - Slice",
+    "description": "Tangy, creamy, smooth and the perfect ending to a great meal. This pie comes in a graham cracker crust topped with whipped cream. ",
+    "price": "5.39 USD",
+    "id": "food0096",
+    "restaurantId": "rest-7",
+    "rating": 4.6,
+    "reviewCount": 71,
+    "priceValue": 5.39,
+    "currency": "USD",
+    "available": false,
+    "calories": 927,
+    "dietaryTags": [
+      "Vegetarian",
+      "Low Carb"
+    ],
+    "content": "Key Lime Pie - Slice belongs to category Desserts. Tangy, creamy, smooth and the perfect ending to a great meal. This pie comes in a graham cracker crust topped with whipped cream.  Price is 5.39 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Brownie Lover's Sundae for Two",
+    "description": "Our decadent walnut brownie filled with toffee morsels, drizzled with chocolate and caramel sauces, topped with vanilla ice cream.",
+    "price": "7.59 USD",
+    "id": "food0097",
+    "restaurantId": "rest-8",
+    "rating": 4.8,
+    "reviewCount": 258,
+    "priceValue": 7.59,
+    "currency": "USD",
+    "available": true,
+    "calories": 893,
+    "dietaryTags": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "content": "Brownie Lover's Sundae for Two belongs to category Desserts. Our decadent walnut brownie filled with toffee morsels, drizzled with chocolate and caramel sauces, topped with vanilla ice cream. Price is 7.59 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Whole French Silk Pie",
+    "description": "Semi-sweet chocolate blended into a velvety, smooth filling. Topped with whipped cream and chocolate morsels.",
+    "price": "16.19 USD",
+    "id": "food0098",
+    "restaurantId": "rest-9",
+    "rating": 4.2,
+    "reviewCount": 244,
+    "priceValue": 16.19,
+    "currency": "USD",
+    "available": true,
+    "calories": 180,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Whole French Silk Pie belongs to category Desserts. Semi-sweet chocolate blended into a velvety, smooth filling. Topped with whipped cream and chocolate morsels. Price is 16.19 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Whole Key Lime Pie",
+    "description": "Tangy, creamy, smooth and the perfect ending to a great meal. This pie comes in a graham cracker crust topped with whipped cream. ",
+    "price": "16.19 USD",
+    "id": "food0099",
+    "restaurantId": "rest-10",
+    "rating": 3.9,
+    "reviewCount": 186,
+    "priceValue": 16.19,
+    "currency": "USD",
+    "available": true,
+    "calories": 270,
+    "dietaryTags": [
+      "Vegetarian",
+      "Vegan",
+      "High Protein"
+    ],
+    "content": "Whole Key Lime Pie belongs to category Desserts. Tangy, creamy, smooth and the perfect ending to a great meal. This pie comes in a graham cracker crust topped with whipped cream.  Price is 16.19 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Desserts",
+    "name": "Fresh Baked Cookies",
+    "description": "5 mouth watering fresh baked Chocolate Chip cookies!  We don't make them until you order them!  Melt in your mouth!",
+    "price": "8.29 USD",
+    "id": "food0100",
+    "restaurantId": "rest-1",
+    "rating": 4.6,
+    "reviewCount": 412,
+    "priceValue": 8.29,
+    "currency": "USD",
+    "available": true,
+    "calories": 948,
+    "dietaryTags": [
+      "Vegan",
+      "Low Carb"
+    ],
+    "content": "Fresh Baked Cookies belongs to category Desserts. 5 mouth watering fresh baked Chocolate Chip cookies!  We don't make them until you order them!  Melt in your mouth! Price is 8.29 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "NEW Citrus Asian Crunch Salad with Chicken",
+    "description": "Whole (640 Cal.), Half (320 Cal.) Romaine and a blend of chopped broccoli, green cabbage, carrots, and kale tossed with edamame, pickled red onions, and fresh cilantro in tangerine soy ginger dressing and topped with warm seared chicken thigh meat, crispy carrots, and a teriyaki drizzle. Allergens: Contains Wheat, Soy",
+    "price": "9.89 USD",
+    "id": "food0101",
+    "restaurantId": "rest-2",
+    "rating": 4.3,
+    "reviewCount": 134,
+    "priceValue": 9.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 919,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Low Carb",
+      "Vegetarian"
+    ],
+    "content": "NEW Citrus Asian Crunch Salad with Chicken belongs to category Salads. Whole (640 Cal.), Half (320 Cal.) Romaine and a blend of chopped broccoli, green cabbage, carrots, and kale tossed with edamame, pickled red onions, and fresh cilantro in tangerine soy ginger dressing and topped with warm seared chicken thigh meat, crispy carrots, and a teriyaki drizzle. Allergens: Contains Wheat, Soy Price is 9.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Green Goddess Cobb Salad with Chicken",
+    "description": "Whole (500 Cal.), Half (250 Cal.) Chicken raised without antibiotics, arugula, romaine, baby kale and red leaf blend, grape tomatoes and pickled red onions tossed in freshly made Green Goddess dressing and topped with fresh avocado, Applewood-smoked bacon and cage-free hard-boiled egg. Allergens: Contains Milk, Egg",
+    "price": "9.89 USD",
+    "id": "food0102",
+    "restaurantId": "rest-3",
+    "rating": 4.6,
+    "reviewCount": 255,
+    "priceValue": 9.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 820,
+    "dietaryTags": [
+      "Vegan"
+    ],
+    "content": "Green Goddess Cobb Salad with Chicken belongs to category Salads. Whole (500 Cal.), Half (250 Cal.) Chicken raised without antibiotics, arugula, romaine, baby kale and red leaf blend, grape tomatoes and pickled red onions tossed in freshly made Green Goddess dressing and topped with fresh avocado, Applewood-smoked bacon and cage-free hard-boiled egg. Allergens: Contains Milk, Egg Price is 9.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Fuji Apple Salad with Chicken",
+    "description": "Whole (560 Cal.), Half (280 Cal.) Chicken raised without antibiotics, arugula, romaine, baby kale and red leaf blend, grape tomatoes, red onions, toasted pecan pieces, Gorgonzola and apple chips tossed in sweet white balsamic vinaigrette. Allergens: Contains Milk, Tree Nuts",
+    "price": "8.79 USD",
+    "id": "food0103",
+    "restaurantId": "rest-4",
+    "rating": 4.3,
+    "reviewCount": 92,
+    "priceValue": 8.79,
+    "currency": "USD",
+    "available": true,
+    "calories": 478,
+    "dietaryTags": [
+      "Vegan",
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "content": "Fuji Apple Salad with Chicken belongs to category Salads. Whole (560 Cal.), Half (280 Cal.) Chicken raised without antibiotics, arugula, romaine, baby kale and red leaf blend, grape tomatoes, red onions, toasted pecan pieces, Gorgonzola and apple chips tossed in sweet white balsamic vinaigrette. Allergens: Contains Milk, Tree Nuts Price is 8.79 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Caesar Salad with Chicken",
+    "description": "Whole (440 Cal.), Half (220 Cal.) Chicken raised without antibiotics, romaine, grated Parmesan and homemade black pepper focaccia croutons tossed with Caesar dressing. Allergens: Contains Wheat, Milk, Egg, Fish",
+    "price": "8.79 USD",
+    "id": "food0104",
+    "restaurantId": "rest-5",
+    "rating": 4.4,
+    "reviewCount": 423,
+    "priceValue": 8.79,
+    "currency": "USD",
+    "available": false,
+    "calories": 704,
+    "dietaryTags": [
+      "Vegan",
+      "Low Carb",
+      "Gluten-Free"
+    ],
+    "content": "Caesar Salad with Chicken belongs to category Salads. Whole (440 Cal.), Half (220 Cal.) Chicken raised without antibiotics, romaine, grated Parmesan and homemade black pepper focaccia croutons tossed with Caesar dressing. Allergens: Contains Wheat, Milk, Egg, Fish Price is 8.79 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Asian Sesame Salad with Chicken",
+    "description": "Whole (410 Cal.), Half (200 Cal.) Chicken raised without antibiotics, romaine, fresh cilantro, toasted almonds, sesame seeds and wonton strips tossed in Asian sesame vinaigrette. Allergens: Contains Wheat, Tree Nuts. May contain Egg",
+    "price": "8.79 USD",
+    "id": "food0105",
+    "restaurantId": "rest-6",
+    "rating": 3.9,
+    "reviewCount": 136,
+    "priceValue": 8.79,
+    "currency": "USD",
+    "available": true,
+    "calories": 350,
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "content": "Asian Sesame Salad with Chicken belongs to category Salads. Whole (410 Cal.), Half (200 Cal.) Chicken raised without antibiotics, romaine, fresh cilantro, toasted almonds, sesame seeds and wonton strips tossed in Asian sesame vinaigrette. Allergens: Contains Wheat, Tree Nuts. May contain Egg Price is 8.79 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "BBQ Chicken Salad",
+    "description": "Whole (490 Cal.), Half (250 Cal.) Chicken raised without antibiotics, romaine, black bean and corn salsa and BBQ ranch dressing topped with frizzled onions and apple cider vinegar BBQ sauce. Allergens: Contains Wheat, Milk, Egg",
+    "price": "8.79 USD",
+    "id": "food0106",
+    "restaurantId": "rest-7",
+    "rating": 4.6,
+    "reviewCount": 70,
+    "priceValue": 8.79,
+    "currency": "USD",
+    "available": false,
+    "calories": 593,
+    "dietaryTags": [
+      "Low Carb",
+      "High Protein",
+      "Vegetarian"
+    ],
+    "content": "BBQ Chicken Salad belongs to category Salads. Whole (490 Cal.), Half (250 Cal.) Chicken raised without antibiotics, romaine, black bean and corn salsa and BBQ ranch dressing topped with frizzled onions and apple cider vinegar BBQ sauce. Allergens: Contains Wheat, Milk, Egg Price is 8.79 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Caesar Salad",
+    "description": "Whole (330 Cal.), Half (170 Cal.) Romaine, grated Parmesan and homemade black pepper focaccia croutons tossed with Caesar dressing. Allergens: Contains Wheat, Milk, Egg, Fish",
+    "price": "6.79 USD",
+    "id": "food0107",
+    "restaurantId": "rest-8",
+    "rating": 4.1,
+    "reviewCount": 272,
+    "priceValue": 6.79,
+    "currency": "USD",
+    "available": true,
+    "calories": 260,
+    "dietaryTags": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-Free"
+    ],
+    "content": "Caesar Salad belongs to category Salads. Whole (330 Cal.), Half (170 Cal.) Romaine, grated Parmesan and homemade black pepper focaccia croutons tossed with Caesar dressing. Allergens: Contains Wheat, Milk, Egg, Fish Price is 6.79 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Golden Temple Salad",
+    "description": "Romaine, spinach, spring mix, sprouts, guacamole, hummus, cheddar, Monterey Jack, feta, tomato, cucumber, bell pepper, onion, mushroom, and black olives.",
+    "price": "11.0 USD",
+    "id": "food0108",
+    "restaurantId": "rest-9",
+    "rating": 4.3,
+    "reviewCount": 378,
+    "priceValue": 11.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 486,
+    "dietaryTags": [
+      "High Protein",
+      "Gluten-Free",
+      "Vegan"
+    ],
+    "content": "Golden Temple Salad belongs to category Salads. Romaine, spinach, spring mix, sprouts, guacamole, hummus, cheddar, Monterey Jack, feta, tomato, cucumber, bell pepper, onion, mushroom, and black olives. Price is 11.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Veggie Salad",
+    "description": "Romaine, spinach, spring mix, guacamole, tomato, cucumber, bell pepper, onion, mushroom, and Kalamata olives.",
+    "price": "7.0 USD",
+    "id": "food0109",
+    "restaurantId": "rest-10",
+    "rating": 4.8,
+    "reviewCount": 394,
+    "priceValue": 7.0,
+    "currency": "USD",
+    "available": true,
+    "calories": 755,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Vegetarian"
+    ],
+    "content": "Veggie Salad belongs to category Salads. Romaine, spinach, spring mix, guacamole, tomato, cucumber, bell pepper, onion, mushroom, and Kalamata olives. Price is 7.0 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Italian Grilled Chicken Salad",
+    "description": "Grilled chicken breast, Genoa salami, romaine, diced tomato, green bell pepper, cucumber and mozzarella",
+    "price": "11.7 USD",
+    "id": "food0110",
+    "restaurantId": "rest-1",
+    "rating": 4.2,
+    "reviewCount": 327,
+    "priceValue": 11.7,
+    "currency": "USD",
+    "available": true,
+    "calories": 150,
+    "dietaryTags": [
+      "Gluten-Free",
+      "High Protein",
+      "Vegetarian"
+    ],
+    "content": "Italian Grilled Chicken Salad belongs to category Salads. Grilled chicken breast, Genoa salami, romaine, diced tomato, green bell pepper, cucumber and mozzarella Price is 11.7 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "The Roman Empire Salad",
+    "description": "Watch your back with our delicious Caesar salad. A healthy bed of romaine lettuce topped with our creamy Caesar dressing.",
+    "price": "10.95 USD",
+    "id": "food0111",
+    "restaurantId": "rest-2",
+    "rating": 3.9,
+    "reviewCount": 39,
+    "priceValue": 10.95,
+    "currency": "USD",
+    "available": true,
+    "calories": 906,
+    "dietaryTags": [
+      "Vegan",
+      "Vegetarian",
+      "High Protein"
+    ],
+    "content": "The Roman Empire Salad belongs to category Salads. Watch your back with our delicious Caesar salad. A healthy bed of romaine lettuce topped with our creamy Caesar dressing. Price is 10.95 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Goomar Salad",
+    "description": "Fridays are for the wives, but on Saturdays, we order verdure salads. Fresh grilled veggies, gorgonzola cheese, and mixed greens.",
+    "price": "10.95 USD",
+    "id": "food0112",
+    "restaurantId": "rest-3",
+    "rating": 4.8,
+    "reviewCount": 371,
+    "priceValue": 10.95,
+    "currency": "USD",
+    "available": true,
+    "calories": 733,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Vegetarian",
+      "High Protein"
+    ],
+    "content": "Goomar Salad belongs to category Salads. Fridays are for the wives, but on Saturdays, we order verdure salads. Fresh grilled veggies, gorgonzola cheese, and mixed greens. Price is 10.95 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Upstream Salad",
+    "description": "Salmon drizzled with soy dressing over arugula, farm egg, cherry tomatoes, chickpea salad, seasonal veggies, fresh fruit, Good People spent grain crackers.",
+    "price": "14.95 USD",
+    "id": "food0113",
+    "restaurantId": "rest-4",
+    "rating": 4.9,
+    "reviewCount": 89,
+    "priceValue": 14.95,
+    "currency": "USD",
+    "available": true,
+    "calories": 665,
+    "dietaryTags": [
+      "High Protein",
+      "Vegetarian"
+    ],
+    "content": "Upstream Salad belongs to category Salads. Salmon drizzled with soy dressing over arugula, farm egg, cherry tomatoes, chickpea salad, seasonal veggies, fresh fruit, Good People spent grain crackers. Price is 14.95 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Goat in the Orchard",
+    "description": "Belle Chevre Alabama goat cheese, pears, toasted walnuts, mixed greens, red grapes, champ/shallot vinaigrette.",
+    "price": "12.65 USD",
+    "id": "food0114",
+    "restaurantId": "rest-5",
+    "rating": 4.3,
+    "reviewCount": 338,
+    "priceValue": 12.65,
+    "currency": "USD",
+    "available": true,
+    "calories": 677,
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "content": "Goat in the Orchard belongs to category Salads. Belle Chevre Alabama goat cheese, pears, toasted walnuts, mixed greens, red grapes, champ/shallot vinaigrette. Price is 12.65 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Makarios Salad",
+    "description": "Lettuce, onions, tomatoes, cucumbers, olive, beets, feta cheese, fresh dill mixed with our homemade dressing.",
+    "price": "6.99 USD",
+    "id": "food0115",
+    "restaurantId": "rest-6",
+    "rating": 4.8,
+    "reviewCount": 263,
+    "priceValue": 6.99,
+    "currency": "USD",
+    "available": false,
+    "calories": 712,
+    "dietaryTags": [
+      "Low Carb",
+      "Vegetarian"
+    ],
+    "content": "Makarios Salad belongs to category Salads. Lettuce, onions, tomatoes, cucumbers, olive, beets, feta cheese, fresh dill mixed with our homemade dressing. Price is 6.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Taco Salad",
+    "description": "Crispy flour tortilla with beef or shredded chicken, refried beans, lettuce, tomatoes, cheese, sour cream, and guacamole.",
+    "price": "10.45 USD",
+    "id": "food0116",
+    "restaurantId": "rest-7",
+    "rating": 4.7,
+    "reviewCount": 352,
+    "priceValue": 10.45,
+    "currency": "USD",
+    "available": true,
+    "calories": 483,
+    "dietaryTags": [
+      "Vegan"
+    ],
+    "content": "Taco Salad belongs to category Salads. Crispy flour tortilla with beef or shredded chicken, refried beans, lettuce, tomatoes, cheese, sour cream, and guacamole. Price is 10.45 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Chicken Salad",
+    "description": "Marinated chicken tenders, lettuce, tomatoes, onions, mushrooms, shredded cheese, and bell peppers.",
+    "price": "10.99 USD",
+    "id": "food0117",
+    "restaurantId": "rest-8",
+    "rating": 4.1,
+    "reviewCount": 430,
+    "priceValue": 10.99,
+    "currency": "USD",
+    "available": true,
+    "calories": 709,
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Vegan"
+    ],
+    "content": "Chicken Salad belongs to category Salads. Marinated chicken tenders, lettuce, tomatoes, onions, mushrooms, shredded cheese, and bell peppers. Price is 10.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Salads",
+    "name": "Shrimp Salad",
+    "description": "Grilled shrimp, lettuce, tomatoes, onions, mushrooms, shredded cheese, and bell peppers.",
+    "price": "12.38 USD",
+    "id": "food0118",
+    "restaurantId": "rest-9",
+    "rating": 4.4,
+    "reviewCount": 403,
+    "priceValue": 12.38,
+    "currency": "USD",
+    "available": true,
+    "calories": 398,
+    "dietaryTags": [
+      "Low Carb"
+    ],
+    "content": "Shrimp Salad belongs to category Salads. Grilled shrimp, lettuce, tomatoes, onions, mushrooms, shredded cheese, and bell peppers. Price is 12.38 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Pizza",
+    "name": "Gourmet Vegetarian Pizza",
+    "description": "Roasted eggplant, artichoke heart, mushroom, roasted garlic, black olive, onion, bell pepper, topped with fresh tomato, and basil.",
+    "price": "17.28 USD",
+    "id": "food0119",
+    "restaurantId": "rest-10",
+    "rating": 4.2,
+    "reviewCount": 288,
+    "priceValue": 17.28,
+    "currency": "USD",
+    "available": true,
+    "calories": 506,
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "content": "Gourmet Vegetarian Pizza belongs to category Pizza. Roasted eggplant, artichoke heart, mushroom, roasted garlic, black olive, onion, bell pepper, topped with fresh tomato, and basil. Price is 17.28 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Pizza",
+    "name": "Cheese Pizza",
+    "description": "Hot and delicious cheese pizza made with our special tomato sauce and a generous topping of classic Italian mozzarella cheese.  ",
+    "price": "5.99 USD",
+    "id": "food0120",
+    "restaurantId": "rest-1",
+    "rating": 4.3,
+    "reviewCount": 327,
+    "priceValue": 5.99,
+    "currency": "USD",
+    "available": true,
+    "calories": 813,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Cheese Pizza belongs to category Pizza. Hot and delicious cheese pizza made with our special tomato sauce and a generous topping of classic Italian mozzarella cheese.   Price is 5.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Pizza",
+    "name": "Double Slice Cheese Pizza",
+    "description": "Two slices of cheese pizza made with vine-ripened tomato sauce, mozzarella cheese, and provolone cheese.",
+    "price": "5.99 USD",
+    "id": "food0121",
+    "restaurantId": "rest-2",
+    "rating": 4.9,
+    "reviewCount": 447,
+    "priceValue": 5.99,
+    "currency": "USD",
+    "available": true,
+    "calories": 719,
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "content": "Double Slice Cheese Pizza belongs to category Pizza. Two slices of cheese pizza made with vine-ripened tomato sauce, mozzarella cheese, and provolone cheese. Price is 5.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Pizza",
+    "name": "Double Slice Pepperoni Pizza",
+    "description": "Two slices of pepperoni pizza made with vine-ripened tomato sauce, mozzarella cheese, and provolone cheese.",
+    "price": "5.99 USD",
+    "id": "food0122",
+    "restaurantId": "rest-3",
+    "rating": 4.9,
+    "reviewCount": 446,
+    "priceValue": 5.99,
+    "currency": "USD",
+    "available": false,
+    "calories": 204,
+    "dietaryTags": [
+      "Low Carb"
+    ],
+    "content": "Double Slice Pepperoni Pizza belongs to category Pizza. Two slices of pepperoni pizza made with vine-ripened tomato sauce, mozzarella cheese, and provolone cheese. Price is 5.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Iced 100% Colombian Dark Roast",
+    "description": "Regular (10 Cal.), Large (15 Cal.) Rich and bold full body with dark chocolate notes and a nutty, sweet finish. Brewed from beans harvested from volcanic soils in Colombia. Freshly ground in cafes. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none",
+    "price": "3.09 USD",
+    "id": "food0123",
+    "restaurantId": "rest-4",
+    "rating": 4.2,
+    "reviewCount": 41,
+    "priceValue": 3.09,
+    "currency": "USD",
+    "available": true,
+    "calories": 396,
+    "dietaryTags": [
+      "Low Carb"
+    ],
+    "content": "Iced 100% Colombian Dark Roast belongs to category Breakfast. Regular (10 Cal.), Large (15 Cal.) Rich and bold full body with dark chocolate notes and a nutty, sweet finish. Brewed from beans harvested from volcanic soils in Colombia. Freshly ground in cafes. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none Price is 3.09 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Hazelnut Coffee",
+    "description": "Regular (20 Cal.), Large (25 Cal.), Small (15 Cal.) Smooth and sweet with a buttery toasted hazelnut flavor. 100% Arabica coffee balanced with the flavor of buttery, toasted hazelnuts. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none",
+    "price": "2.89 USD",
+    "id": "food0124",
+    "restaurantId": "rest-5",
+    "rating": 4.7,
+    "reviewCount": 97,
+    "priceValue": 2.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 305,
+    "dietaryTags": [
+      "Low Carb",
+      "High Protein",
+      "Vegetarian"
+    ],
+    "content": "Hazelnut Coffee belongs to category Breakfast. Regular (20 Cal.), Large (25 Cal.), Small (15 Cal.) Smooth and sweet with a buttery toasted hazelnut flavor. 100% Arabica coffee balanced with the flavor of buttery, toasted hazelnuts. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none Price is 2.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "100% Colombian Dark Roast Coffee",
+    "description": "Regular (15 Cal.), Large (15 Cal.), Small (10 Cal.) Rich and bold full body with dark chocolate notes and a nutty, sweet finish. Brewed from beans harvested from volcanic soils in Colombia. Freshly ground in cafes. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none",
+    "price": "2.89 USD",
+    "id": "food0125",
+    "restaurantId": "rest-6",
+    "rating": 4.9,
+    "reviewCount": 143,
+    "priceValue": 2.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 680,
+    "dietaryTags": [
+      "Low Carb"
+    ],
+    "content": "100% Colombian Dark Roast Coffee belongs to category Breakfast. Regular (15 Cal.), Large (15 Cal.), Small (10 Cal.) Rich and bold full body with dark chocolate notes and a nutty, sweet finish. Brewed from beans harvested from volcanic soils in Colombia. Freshly ground in cafes. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none Price is 2.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Cafe Blend Light Roast",
+    "description": "Regular (20 Cal.), Large (25 Cal.), Small (15 Cal.) Soft and smooth with hints of citrus, roasted nut and chocolate. A blend of Central and South American beans. Light bodied with a bright sweetness. Freshly ground in cafes. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none",
+    "price": "2.89 USD",
+    "id": "food0126",
+    "restaurantId": "rest-7",
+    "rating": 4.4,
+    "reviewCount": 32,
+    "priceValue": 2.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 225,
+    "dietaryTags": [
+      "Vegan",
+      "Low Carb"
+    ],
+    "content": "Cafe Blend Light Roast belongs to category Breakfast. Regular (20 Cal.), Large (25 Cal.), Small (15 Cal.) Soft and smooth with hints of citrus, roasted nut and chocolate. A blend of Central and South American beans. Light bodied with a bright sweetness. Freshly ground in cafes. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none Price is 2.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Decaf Coffee",
+    "description": "Regular (20 Cal.), Large (25 Cal.), Small (15 Cal.) Medium body with sweet caramel and citrus notes. A smooth and balanced blend from Antioquia, Colombia. Fresh tasting with a clean finish. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none",
+    "price": "2.89 USD",
+    "id": "food0127",
+    "restaurantId": "rest-8",
+    "rating": 4.8,
+    "reviewCount": 184,
+    "priceValue": 2.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 464,
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "content": "Decaf Coffee belongs to category Breakfast. Regular (20 Cal.), Large (25 Cal.), Small (15 Cal.) Medium body with sweet caramel and citrus notes. A smooth and balanced blend from Antioquia, Colombia. Fresh tasting with a clean finish. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none Price is 2.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Hot Tea",
+    "description": "0 Cal. Hot Teas. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none",
+    "price": "2.99 USD",
+    "id": "food0128",
+    "restaurantId": "rest-9",
+    "rating": 4.7,
+    "reviewCount": 490,
+    "priceValue": 2.99,
+    "currency": "USD",
+    "available": true,
+    "calories": 808,
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "content": "Hot Tea belongs to category Breakfast. 0 Cal. Hot Teas. Please note, this beverage is self-serve when ordering In-Cafe Pick-Up or Dine-In. Allergens: none Price is 2.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Madagascar Vanilla Cream Cold Brew",
+    "description": "Regular (190 Cal.), Large (260 Cal.) Our dark roast cold brew coffee with Madagascar vanilla syrup and half and half, served over ice. Allergens: Contains Milk",
+    "price": "4.29 USD",
+    "id": "food0129",
+    "restaurantId": "rest-10",
+    "rating": 4.6,
+    "reviewCount": 131,
+    "priceValue": 4.29,
+    "currency": "USD",
+    "available": false,
+    "calories": 521,
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "content": "Madagascar Vanilla Cream Cold Brew belongs to category Breakfast. Regular (190 Cal.), Large (260 Cal.) Our dark roast cold brew coffee with Madagascar vanilla syrup and half and half, served over ice. Allergens: Contains Milk Price is 4.29 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Madagascar Vanilla Almond Cold Brew",
+    "description": "Regular (90 Cal.), Large (120 Cal.) Our dark roast cold brew coffee with Madagascar vanilla syrup and almondmilk, served over ice. Allergens: Contains Tree Nuts",
+    "price": "4.29 USD",
+    "id": "food0130",
+    "restaurantId": "rest-1",
+    "rating": 4.3,
+    "reviewCount": 285,
+    "priceValue": 4.29,
+    "currency": "USD",
+    "available": true,
+    "calories": 710,
+    "dietaryTags": [
+      "Low Carb",
+      "Gluten-Free",
+      "High Protein"
+    ],
+    "content": "Madagascar Vanilla Almond Cold Brew belongs to category Breakfast. Regular (90 Cal.), Large (120 Cal.) Our dark roast cold brew coffee with Madagascar vanilla syrup and almondmilk, served over ice. Allergens: Contains Tree Nuts Price is 4.29 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Hot Chocolate",
+    "description": "Regular (430 Cal.), Large (550 Cal.) Bittersweet chocolate flavored syrup mixed with foamed milk and topped with whipped cream and drizzled with caramel syrup. Allergens: Contains Milk",
+    "price": "4.29 USD",
+    "id": "food0131",
+    "restaurantId": "rest-2",
+    "rating": 3.9,
+    "reviewCount": 169,
+    "priceValue": 4.29,
+    "currency": "USD",
+    "available": true,
+    "calories": 679,
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "content": "Hot Chocolate belongs to category Breakfast. Regular (430 Cal.), Large (550 Cal.) Bittersweet chocolate flavored syrup mixed with foamed milk and topped with whipped cream and drizzled with caramel syrup. Allergens: Contains Milk Price is 4.29 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Hazelnut Coffee Tote",
+    "description": "140 Cal. Subtle nutty tones with wonderful coffee flavor. Serves 10. Brewed fresh, so please allow additional 15 min./tote to prepare your order. 120 fl oz per tote. Allergens: none",
+    "price": "22.89 USD",
+    "id": "food0132",
+    "restaurantId": "rest-3",
+    "rating": 4.5,
+    "reviewCount": 197,
+    "priceValue": 22.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 527,
+    "dietaryTags": [
+      "High Protein",
+      "Low Carb",
+      "Vegan"
+    ],
+    "content": "Hazelnut Coffee Tote belongs to category Breakfast. 140 Cal. Subtle nutty tones with wonderful coffee flavor. Serves 10. Brewed fresh, so please allow additional 15 min./tote to prepare your order. 120 fl oz per tote. Allergens: none Price is 22.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Cafe Blend Light Roast Coffee Tote",
+    "description": "140 Cal. Carefully roasted from Arabica beans and freshly brewed. Brewed fresh, so please allow additional 15 min./tote to prepare your order. Serves 10. 120 fl oz per tote. Allergens: none",
+    "price": "22.89 USD",
+    "id": "food0133",
+    "restaurantId": "rest-4",
+    "rating": 3.8,
+    "reviewCount": 34,
+    "priceValue": 22.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 511,
+    "dietaryTags": [
+      "Vegetarian",
+      "High Protein"
+    ],
+    "content": "Cafe Blend Light Roast Coffee Tote belongs to category Breakfast. 140 Cal. Carefully roasted from Arabica beans and freshly brewed. Brewed fresh, so please allow additional 15 min./tote to prepare your order. Serves 10. 120 fl oz per tote. Allergens: none Price is 22.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "100% Colombian Dark Roast Coffee Tote",
+    "description": "100 Cal. Rich and bold full body with dark chocolate notes and a nutty, sweet finish. Brewed from beans harvested from volcanic soils in Colombia. Brewed fresh, so please allow additional 15 min./tote to prepare your order. Serves 10. 120 fl oz per tote. Allergens: none",
+    "price": "22.89 USD",
+    "id": "food0134",
+    "restaurantId": "rest-5",
+    "rating": 4.5,
+    "reviewCount": 109,
+    "priceValue": 22.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 674,
+    "dietaryTags": [
+      "High Protein",
+      "Vegetarian",
+      "Vegan"
+    ],
+    "content": "100% Colombian Dark Roast Coffee Tote belongs to category Breakfast. 100 Cal. Rich and bold full body with dark chocolate notes and a nutty, sweet finish. Brewed from beans harvested from volcanic soils in Colombia. Brewed fresh, so please allow additional 15 min./tote to prepare your order. Serves 10. 120 fl oz per tote. Allergens: none Price is 22.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Decaf Coffee Tote",
+    "description": "140 Cal. Perfectly balanced with a clean finish. Serves 10. Brewed fresh, so please allow additional 15 min./tote to prepare your order. 120 fl oz per tote. Allergens: none",
+    "price": "22.89 USD",
+    "id": "food0135",
+    "restaurantId": "rest-6",
+    "rating": 4.6,
+    "reviewCount": 71,
+    "priceValue": 22.89,
+    "currency": "USD",
+    "available": true,
+    "calories": 890,
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "content": "Decaf Coffee Tote belongs to category Breakfast. 140 Cal. Perfectly balanced with a clean finish. Serves 10. Brewed fresh, so please allow additional 15 min./tote to prepare your order. 120 fl oz per tote. Allergens: none Price is 22.89 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Asiago Bagel",
+    "description": "320 Cal. Freshly baked bagel made with chunks of asiago cheese baked inside and topped with more asiago. Allergens: Contains Wheat, Milk",
+    "price": "1.79 USD",
+    "id": "food0136",
+    "restaurantId": "rest-7",
+    "rating": 4.3,
+    "reviewCount": 112,
+    "priceValue": 1.79,
+    "currency": "USD",
+    "available": true,
+    "calories": 186,
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "content": "Asiago Bagel belongs to category Breakfast. 320 Cal. Freshly baked bagel made with chunks of asiago cheese baked inside and topped with more asiago. Allergens: Contains Wheat, Milk Price is 1.79 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "One Dozen Mixed Cookies",
+    "description": "4660 Cal. 12 freshly baked cookies, made with 6 Chocolate Chipper Cookies, 3 Candy Cookies, and 3 Oatmeal Raisin with Berries Cookies. Allergens: Contains Wheat, Soy, Milk, Egg",
+    "price": "22.29 USD",
+    "id": "food0137",
+    "restaurantId": "rest-8",
+    "rating": 4.4,
+    "reviewCount": 167,
+    "priceValue": 22.29,
+    "currency": "USD",
+    "available": true,
+    "calories": 395,
+    "dietaryTags": [
+      "High Protein",
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "content": "One Dozen Mixed Cookies belongs to category Breakfast. 4660 Cal. 12 freshly baked cookies, made with 6 Chocolate Chipper Cookies, 3 Candy Cookies, and 3 Oatmeal Raisin with Berries Cookies. Allergens: Contains Wheat, Soy, Milk, Egg Price is 22.29 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Madagascar Vanilla Latte",
+    "description": "Regular (260 Cal.), Large (310 Cal.) Freshly brewed espresso with foamed milk and Madagascar vanilla syrup, topped with whipped cream. Allergens: Contains Milk",
+    "price": "5.59 USD",
+    "id": "food0138",
+    "restaurantId": "rest-9",
+    "rating": 3.9,
+    "reviewCount": 301,
+    "priceValue": 5.59,
+    "currency": "USD",
+    "available": false,
+    "calories": 924,
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free",
+      "Vegetarian"
+    ],
+    "content": "Madagascar Vanilla Latte belongs to category Breakfast. Regular (260 Cal.), Large (310 Cal.) Freshly brewed espresso with foamed milk and Madagascar vanilla syrup, topped with whipped cream. Allergens: Contains Milk Price is 5.59 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Chocolate Latte",
+    "description": "Regular (370 Cal.), Large (420 Cal.) Freshly brewed espresso, foamed milk and chocolate topped with whipped cream and a drizzle of chocolate syrup. Allergens: Contains Milk",
+    "price": "5.59 USD",
+    "id": "food0139",
+    "restaurantId": "rest-10",
+    "rating": 4.2,
+    "reviewCount": 446,
+    "priceValue": 5.59,
+    "currency": "USD",
+    "available": true,
+    "calories": 638,
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "content": "Chocolate Latte belongs to category Breakfast. Regular (370 Cal.), Large (420 Cal.) Freshly brewed espresso, foamed milk and chocolate topped with whipped cream and a drizzle of chocolate syrup. Allergens: Contains Milk Price is 5.59 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Cappuccino",
+    "description": "Regular (130 Cal.), Large (160 Cal.) Espresso with steamed milk, topped with a cap of foam. Allergens: Contains Milk",
+    "price": "4.99 USD",
+    "id": "food0140",
+    "restaurantId": "rest-1",
+    "rating": 4.7,
+    "reviewCount": 262,
+    "priceValue": 4.99,
+    "currency": "USD",
+    "available": true,
+    "calories": 556,
+    "dietaryTags": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "content": "Cappuccino belongs to category Breakfast. Regular (130 Cal.), Large (160 Cal.) Espresso with steamed milk, topped with a cap of foam. Allergens: Contains Milk Price is 4.99 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Americano",
+    "description": "10 Cal. Two shots of espresso made with our favorite espresso beans combined with hot water. Served hot. Allergens: none",
+    "price": "3.69 USD",
+    "id": "food0141",
+    "restaurantId": "rest-2",
+    "rating": 4.9,
+    "reviewCount": 290,
+    "priceValue": 3.69,
+    "currency": "USD",
+    "available": true,
+    "calories": 197,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Low Carb"
+    ],
+    "content": "Americano belongs to category Breakfast. 10 Cal. Two shots of espresso made with our favorite espresso beans combined with hot water. Served hot. Allergens: none Price is 3.69 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Breakfast",
+    "name": "Frozen Caramel Cold Brew",
+    "description": "480 Cal. Caramel and an icy cold brew coffee blend topped with whipped cream and caramel syrup. Allergens: Contains Milk",
+    "price": "5.69 USD",
+    "id": "food0142",
+    "restaurantId": "rest-3",
+    "rating": 4.8,
+    "reviewCount": 173,
+    "priceValue": 5.69,
+    "currency": "USD",
+    "available": true,
+    "calories": 635,
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "content": "Frozen Caramel Cold Brew belongs to category Breakfast. 480 Cal. Caramel and an icy cold brew coffee blend topped with whipped cream and caramel syrup. Allergens: Contains Milk Price is 5.69 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Appetizers",
+    "name": "Spicy Pimento Cheese",
+    "description": "Grated sharp Cheddar, mayonnaise, diced red peppers, and Tabasco. Served with soft or baked pita chips.",
+    "price": "6.6 USD",
+    "id": "food0143",
+    "restaurantId": "rest-4",
+    "rating": 4.3,
+    "reviewCount": 485,
+    "priceValue": 6.6,
+    "currency": "USD",
+    "available": true,
+    "calories": 231,
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "content": "Spicy Pimento Cheese belongs to category Appetizers. Grated sharp Cheddar, mayonnaise, diced red peppers, and Tabasco. Served with soft or baked pita chips. Price is 6.6 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Appetizers",
+    "name": "Veggie Samosa",
+    "description": "Triangular pastry with a savory filling of spiced potatoes, peas, and lentils. Served with side of mint or tamarind relish",
+    "price": "8.35 USD",
+    "id": "food0144",
+    "restaurantId": "rest-5",
+    "rating": 5.0,
+    "reviewCount": 147,
+    "priceValue": 8.35,
+    "currency": "USD",
+    "available": true,
+    "calories": 247,
+    "dietaryTags": [
+      "Low Carb",
+      "High Protein",
+      "Vegan"
+    ],
+    "content": "Veggie Samosa belongs to category Appetizers. Triangular pastry with a savory filling of spiced potatoes, peas, and lentils. Served with side of mint or tamarind relish Price is 8.35 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Appetizers",
+    "name": "Crisp Onion Fritters",
+    "description": "A medley of onions dipped in chickpea and rice flour batter and deep-fried till crispy and golden color. ",
+    "price": "8.35 USD",
+    "id": "food0145",
+    "restaurantId": "rest-6",
+    "rating": 4.0,
+    "reviewCount": 359,
+    "priceValue": 8.35,
+    "currency": "USD",
+    "available": true,
+    "calories": 865,
+    "dietaryTags": [
+      "High Protein",
+      "Gluten-Free",
+      "Vegan"
+    ],
+    "content": "Crisp Onion Fritters belongs to category Appetizers. A medley of onions dipped in chickpea and rice flour batter and deep-fried till crispy and golden color.  Price is 8.35 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Appetizers",
+    "name": "Cauli Manchurian",
+    "description": "Fried cauliflower florets sauteed with onions, ginger, garlic, bell peppers and tossed in a chef-special Manchurian sauce.",
+    "price": "22.26 USD",
+    "id": "food0146",
+    "restaurantId": "rest-7",
+    "rating": 4.7,
+    "reviewCount": 435,
+    "priceValue": 22.26,
+    "currency": "USD",
+    "available": true,
+    "calories": 480,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Vegetarian",
+      "High Protein"
+    ],
+    "content": "Cauli Manchurian belongs to category Appetizers. Fried cauliflower florets sauteed with onions, ginger, garlic, bell peppers and tossed in a chef-special Manchurian sauce. Price is 22.26 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Appetizers",
+    "name": "Cottage Cheese Tikka",
+    "description": "Homemade cottage cheese cubes marinated in yogurt and spices cooked in clay oven with bell peppers and onion.",
+    "price": "13.92 USD",
+    "id": "food0147",
+    "restaurantId": "rest-8",
+    "rating": 4.9,
+    "reviewCount": 188,
+    "priceValue": 13.92,
+    "currency": "USD",
+    "available": true,
+    "calories": 192,
+    "dietaryTags": [
+      "Low Carb",
+      "Vegan"
+    ],
+    "content": "Cottage Cheese Tikka belongs to category Appetizers. Homemade cottage cheese cubes marinated in yogurt and spices cooked in clay oven with bell peppers and onion. Price is 13.92 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Appetizers",
+    "name": "Peasant Garlic Soup",
+    "description": "A Chez Lulu signature dish, this peasant soup is fragrant with garlic but not overwhelmingly. Its stock is all vegetarian, with just a touch of cream for balance.",
+    "price": "5.75 USD",
+    "id": "food0148",
+    "restaurantId": "rest-9",
+    "rating": 4.5,
+    "reviewCount": 322,
+    "priceValue": 5.75,
+    "currency": "USD",
+    "available": false,
+    "calories": 899,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Low Carb",
+      "High Protein"
+    ],
+    "content": "Peasant Garlic Soup belongs to category Appetizers. A Chez Lulu signature dish, this peasant soup is fragrant with garlic but not overwhelmingly. Its stock is all vegetarian, with just a touch of cream for balance. Price is 5.75 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Appetizers",
+    "name": "Appetizer Platter (for 2)",
+    "description": "Assorted appetizers, egg roll, chicken wings, fried won ton, chicken teriyaki, barbeque spare ribs, and shrimp toast.",
+    "price": "10.95 USD",
+    "id": "food0149",
+    "restaurantId": "rest-10",
+    "rating": 4.0,
+    "reviewCount": 99,
+    "priceValue": 10.95,
+    "currency": "USD",
+    "available": true,
+    "calories": 584,
+    "dietaryTags": [
+      "Gluten-Free",
+      "Vegan",
+      "Low Carb"
+    ],
+    "content": "Appetizer Platter (for 2) belongs to category Appetizers. Assorted appetizers, egg roll, chicken wings, fried won ton, chicken teriyaki, barbeque spare ribs, and shrimp toast. Price is 10.95 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Appetizers",
+    "name": "Appetizer Platter for 2",
+    "description": "Assorted appetizers-egg roll, chicken wings, fried wonton, chicken teriyaki, BBQ spare ribs, and shrimp toast.",
+    "price": "14.25 USD",
+    "id": "food0150",
+    "restaurantId": "rest-1",
+    "rating": 4.8,
+    "reviewCount": 351,
+    "priceValue": 14.25,
+    "currency": "USD",
+    "available": false,
+    "calories": 147,
+    "dietaryTags": [
+      "High Protein",
+      "Vegan"
+    ],
+    "content": "Appetizer Platter for 2 belongs to category Appetizers. Assorted appetizers-egg roll, chicken wings, fried wonton, chicken teriyaki, BBQ spare ribs, and shrimp toast. Price is 14.25 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  },
+  {
+    "category": "Appetizers",
+    "name": "Pu Pu Platter",
+    "description": "Two egg rolls, two crab Rangoon, two cheese wontons, two fried shrimp, four shrimp toast, two fried dumplings, and two chicken on a stick. Serves two people.",
+    "price": "14.75 USD",
+    "id": "food0151",
+    "restaurantId": "rest-2",
+    "rating": 4.3,
+    "reviewCount": 96,
+    "priceValue": 14.75,
+    "currency": "USD",
+    "available": true,
+    "calories": 457,
+    "dietaryTags": [
+      "Gluten-Free"
+    ],
+    "content": "Pu Pu Platter belongs to category Appetizers. Two egg rolls, two crab Rangoon, two cheese wontons, two fried shrimp, four shrimp toast, two fried dumplings, and two chicken on a stick. Serves two people. Price is 14.75 USD.",
+    "metadata": {
+      "createdBy": "AI200-Lab",
+      "source": "Restaurant Menu Dataset",
+      "lastUpdated": "2026-06-01"
+    }
+  }
+]
