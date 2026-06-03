@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "doc001",
+    "title": "Azure Openai Concept 1",
+    "category": "azure-openai",
+    "difficulty": "intermediate",
+    "service": "Azure Openai",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-openai. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-openai integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc002",
+    "title": "Azure Ai Search Concept 2",
+    "category": "azure-ai-search",
+    "difficulty": "advanced",
+    "service": "Azure Ai Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc003",
+    "title": "Azure Ai Foundry Concept 3",
+    "category": "azure-ai-foundry",
+    "difficulty": "intermediate",
+    "service": "Azure Ai Foundry",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-ai-foundry. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-foundry integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc004",
+    "title": "Azure Document Intelligence Concept 4",
+    "category": "azure-document-intelligence",
+    "difficulty": "advanced",
+    "service": "Azure Document Intelligence",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-document-intelligence. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-document-intelligence integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc005",
+    "title": "Azure Ai Language Concept 5",
+    "category": "azure-ai-language",
+    "difficulty": "beginner",
+    "service": "Azure Ai Language",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-language. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-language integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc006",
+    "title": "Azure Ai Vision Concept 6",
+    "category": "azure-ai-vision",
+    "difficulty": "intermediate",
+    "service": "Azure Ai Vision",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-vision. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-vision integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc007",
+    "title": "Agent Framework Concept 7",
+    "category": "agent-framework",
+    "difficulty": "advanced",
+    "service": "Agent Framework",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains agent-framework. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how agent-framework integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc008",
+    "title": "Prompt Flow Concept 8",
+    "category": "prompt-flow",
+    "difficulty": "advanced",
+    "service": "Prompt Flow",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains prompt-flow. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how prompt-flow integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc009",
+    "title": "Rag Concept 9",
+    "category": "rag",
+    "difficulty": "beginner",
+    "service": "Rag",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains rag. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how rag integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc010",
+    "title": "Vector Search Concept 10",
+    "category": "vector-search",
+    "difficulty": "intermediate",
+    "service": "Vector Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains vector-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how vector-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc011",
+    "title": "Azure Openai Concept 11",
+    "category": "azure-openai",
+    "difficulty": "intermediate",
+    "service": "Azure Openai",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-openai. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-openai integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc012",
+    "title": "Azure Ai Search Concept 12",
+    "category": "azure-ai-search",
+    "difficulty": "intermediate",
+    "service": "Azure Ai Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc013",
+    "title": "Azure Ai Foundry Concept 13",
+    "category": "azure-ai-foundry",
+    "difficulty": "advanced",
+    "service": "Azure Ai Foundry",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-ai-foundry. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-foundry integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc014",
+    "title": "Azure Document Intelligence Concept 14",
+    "category": "azure-document-intelligence",
+    "difficulty": "advanced",
+    "service": "Azure Document Intelligence",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-document-intelligence. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-document-intelligence integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc015",
+    "title": "Azure Ai Language Concept 15",
+    "category": "azure-ai-language",
+    "difficulty": "advanced",
+    "service": "Azure Ai Language",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-language. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-language integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc016",
+    "title": "Azure Ai Vision Concept 16",
+    "category": "azure-ai-vision",
+    "difficulty": "advanced",
+    "service": "Azure Ai Vision",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-vision. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-vision integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc017",
+    "title": "Agent Framework Concept 17",
+    "category": "agent-framework",
+    "difficulty": "beginner",
+    "service": "Agent Framework",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains agent-framework. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how agent-framework integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc018",
+    "title": "Prompt Flow Concept 18",
+    "category": "prompt-flow",
+    "difficulty": "advanced",
+    "service": "Prompt Flow",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains prompt-flow. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how prompt-flow integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc019",
+    "title": "Rag Concept 19",
+    "category": "rag",
+    "difficulty": "intermediate",
+    "service": "Rag",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains rag. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how rag integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc020",
+    "title": "Vector Search Concept 20",
+    "category": "vector-search",
+    "difficulty": "intermediate",
+    "service": "Vector Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains vector-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how vector-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc021",
+    "title": "Azure Openai Concept 21",
+    "category": "azure-openai",
+    "difficulty": "advanced",
+    "service": "Azure Openai",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-openai. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-openai integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc022",
+    "title": "Azure Ai Search Concept 22",
+    "category": "azure-ai-search",
+    "difficulty": "beginner",
+    "service": "Azure Ai Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc023",
+    "title": "Azure Ai Foundry Concept 23",
+    "category": "azure-ai-foundry",
+    "difficulty": "beginner",
+    "service": "Azure Ai Foundry",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-ai-foundry. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-foundry integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc024",
+    "title": "Azure Document Intelligence Concept 24",
+    "category": "azure-document-intelligence",
+    "difficulty": "beginner",
+    "service": "Azure Document Intelligence",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-document-intelligence. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-document-intelligence integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc025",
+    "title": "Azure Ai Language Concept 25",
+    "category": "azure-ai-language",
+    "difficulty": "intermediate",
+    "service": "Azure Ai Language",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-language. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-language integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc026",
+    "title": "Azure Ai Vision Concept 26",
+    "category": "azure-ai-vision",
+    "difficulty": "beginner",
+    "service": "Azure Ai Vision",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-vision. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-vision integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc027",
+    "title": "Agent Framework Concept 27",
+    "category": "agent-framework",
+    "difficulty": "beginner",
+    "service": "Agent Framework",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains agent-framework. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how agent-framework integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc028",
+    "title": "Prompt Flow Concept 28",
+    "category": "prompt-flow",
+    "difficulty": "beginner",
+    "service": "Prompt Flow",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains prompt-flow. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how prompt-flow integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc029",
+    "title": "Rag Concept 29",
+    "category": "rag",
+    "difficulty": "advanced",
+    "service": "Rag",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains rag. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how rag integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc030",
+    "title": "Vector Search Concept 30",
+    "category": "vector-search",
+    "difficulty": "advanced",
+    "service": "Vector Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains vector-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how vector-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc031",
+    "title": "Azure Openai Concept 31",
+    "category": "azure-openai",
+    "difficulty": "intermediate",
+    "service": "Azure Openai",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-openai. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-openai integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc032",
+    "title": "Azure Ai Search Concept 32",
+    "category": "azure-ai-search",
+    "difficulty": "beginner",
+    "service": "Azure Ai Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc033",
+    "title": "Azure Ai Foundry Concept 33",
+    "category": "azure-ai-foundry",
+    "difficulty": "beginner",
+    "service": "Azure Ai Foundry",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-foundry. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-foundry integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc034",
+    "title": "Azure Document Intelligence Concept 34",
+    "category": "azure-document-intelligence",
+    "difficulty": "advanced",
+    "service": "Azure Document Intelligence",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-document-intelligence. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-document-intelligence integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc035",
+    "title": "Azure Ai Language Concept 35",
+    "category": "azure-ai-language",
+    "difficulty": "advanced",
+    "service": "Azure Ai Language",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-language. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-language integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc036",
+    "title": "Azure Ai Vision Concept 36",
+    "category": "azure-ai-vision",
+    "difficulty": "intermediate",
+    "service": "Azure Ai Vision",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-vision. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-vision integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc037",
+    "title": "Agent Framework Concept 37",
+    "category": "agent-framework",
+    "difficulty": "advanced",
+    "service": "Agent Framework",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains agent-framework. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how agent-framework integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc038",
+    "title": "Prompt Flow Concept 38",
+    "category": "prompt-flow",
+    "difficulty": "advanced",
+    "service": "Prompt Flow",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains prompt-flow. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how prompt-flow integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc039",
+    "title": "Rag Concept 39",
+    "category": "rag",
+    "difficulty": "beginner",
+    "service": "Rag",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains rag. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how rag integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc040",
+    "title": "Vector Search Concept 40",
+    "category": "vector-search",
+    "difficulty": "intermediate",
+    "service": "Vector Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains vector-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how vector-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc041",
+    "title": "Azure Openai Concept 41",
+    "category": "azure-openai",
+    "difficulty": "intermediate",
+    "service": "Azure Openai",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-openai. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-openai integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc042",
+    "title": "Azure Ai Search Concept 42",
+    "category": "azure-ai-search",
+    "difficulty": "advanced",
+    "service": "Azure Ai Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc043",
+    "title": "Azure Ai Foundry Concept 43",
+    "category": "azure-ai-foundry",
+    "difficulty": "advanced",
+    "service": "Azure Ai Foundry",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-foundry. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-foundry integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc044",
+    "title": "Azure Document Intelligence Concept 44",
+    "category": "azure-document-intelligence",
+    "difficulty": "beginner",
+    "service": "Azure Document Intelligence",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-document-intelligence. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-document-intelligence integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc045",
+    "title": "Azure Ai Language Concept 45",
+    "category": "azure-ai-language",
+    "difficulty": "beginner",
+    "service": "Azure Ai Language",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-language. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-language integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc046",
+    "title": "Azure Ai Vision Concept 46",
+    "category": "azure-ai-vision",
+    "difficulty": "advanced",
+    "service": "Azure Ai Vision",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-ai-vision. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-vision integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc047",
+    "title": "Agent Framework Concept 47",
+    "category": "agent-framework",
+    "difficulty": "advanced",
+    "service": "Agent Framework",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains agent-framework. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how agent-framework integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc048",
+    "title": "Prompt Flow Concept 48",
+    "category": "prompt-flow",
+    "difficulty": "advanced",
+    "service": "Prompt Flow",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains prompt-flow. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how prompt-flow integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc049",
+    "title": "Rag Concept 49",
+    "category": "rag",
+    "difficulty": "beginner",
+    "service": "Rag",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains rag. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how rag integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc050",
+    "title": "Vector Search Concept 50",
+    "category": "vector-search",
+    "difficulty": "advanced",
+    "service": "Vector Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains vector-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how vector-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc051",
+    "title": "Azure Openai Concept 51",
+    "category": "azure-openai",
+    "difficulty": "beginner",
+    "service": "Azure Openai",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-openai. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-openai integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc052",
+    "title": "Azure Ai Search Concept 52",
+    "category": "azure-ai-search",
+    "difficulty": "advanced",
+    "service": "Azure Ai Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc053",
+    "title": "Azure Ai Foundry Concept 53",
+    "category": "azure-ai-foundry",
+    "difficulty": "intermediate",
+    "service": "Azure Ai Foundry",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-foundry. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-foundry integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc054",
+    "title": "Azure Document Intelligence Concept 54",
+    "category": "azure-document-intelligence",
+    "difficulty": "beginner",
+    "service": "Azure Document Intelligence",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-document-intelligence. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-document-intelligence integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc055",
+    "title": "Azure Ai Language Concept 55",
+    "category": "azure-ai-language",
+    "difficulty": "advanced",
+    "service": "Azure Ai Language",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-language. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-language integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc056",
+    "title": "Azure Ai Vision Concept 56",
+    "category": "azure-ai-vision",
+    "difficulty": "beginner",
+    "service": "Azure Ai Vision",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-vision. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-vision integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc057",
+    "title": "Agent Framework Concept 57",
+    "category": "agent-framework",
+    "difficulty": "intermediate",
+    "service": "Agent Framework",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains agent-framework. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how agent-framework integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc058",
+    "title": "Prompt Flow Concept 58",
+    "category": "prompt-flow",
+    "difficulty": "advanced",
+    "service": "Prompt Flow",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains prompt-flow. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how prompt-flow integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc059",
+    "title": "Rag Concept 59",
+    "category": "rag",
+    "difficulty": "beginner",
+    "service": "Rag",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains rag. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how rag integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc060",
+    "title": "Vector Search Concept 60",
+    "category": "vector-search",
+    "difficulty": "intermediate",
+    "service": "Vector Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains vector-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how vector-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc061",
+    "title": "Azure Openai Concept 61",
+    "category": "azure-openai",
+    "difficulty": "intermediate",
+    "service": "Azure Openai",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-openai. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-openai integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc062",
+    "title": "Azure Ai Search Concept 62",
+    "category": "azure-ai-search",
+    "difficulty": "beginner",
+    "service": "Azure Ai Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-ai-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc063",
+    "title": "Azure Ai Foundry Concept 63",
+    "category": "azure-ai-foundry",
+    "difficulty": "beginner",
+    "service": "Azure Ai Foundry",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-foundry. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-foundry integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc064",
+    "title": "Azure Document Intelligence Concept 64",
+    "category": "azure-document-intelligence",
+    "difficulty": "beginner",
+    "service": "Azure Document Intelligence",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-document-intelligence. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-document-intelligence integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc065",
+    "title": "Azure Ai Language Concept 65",
+    "category": "azure-ai-language",
+    "difficulty": "beginner",
+    "service": "Azure Ai Language",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-ai-language. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-language integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc066",
+    "title": "Azure Ai Vision Concept 66",
+    "category": "azure-ai-vision",
+    "difficulty": "beginner",
+    "service": "Azure Ai Vision",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-ai-vision. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-vision integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc067",
+    "title": "Agent Framework Concept 67",
+    "category": "agent-framework",
+    "difficulty": "advanced",
+    "service": "Agent Framework",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains agent-framework. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how agent-framework integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc068",
+    "title": "Prompt Flow Concept 68",
+    "category": "prompt-flow",
+    "difficulty": "beginner",
+    "service": "Prompt Flow",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains prompt-flow. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how prompt-flow integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc069",
+    "title": "Rag Concept 69",
+    "category": "rag",
+    "difficulty": "advanced",
+    "service": "Rag",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains rag. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how rag integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc070",
+    "title": "Vector Search Concept 70",
+    "category": "vector-search",
+    "difficulty": "beginner",
+    "service": "Vector Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains vector-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how vector-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc071",
+    "title": "Azure Openai Concept 71",
+    "category": "azure-openai",
+    "difficulty": "beginner",
+    "service": "Azure Openai",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-openai. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-openai integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc072",
+    "title": "Azure Ai Search Concept 72",
+    "category": "azure-ai-search",
+    "difficulty": "beginner",
+    "service": "Azure Ai Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc073",
+    "title": "Azure Ai Foundry Concept 73",
+    "category": "azure-ai-foundry",
+    "difficulty": "beginner",
+    "service": "Azure Ai Foundry",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-foundry. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-foundry integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc074",
+    "title": "Azure Document Intelligence Concept 74",
+    "category": "azure-document-intelligence",
+    "difficulty": "advanced",
+    "service": "Azure Document Intelligence",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-document-intelligence. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-document-intelligence integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc075",
+    "title": "Azure Ai Language Concept 75",
+    "category": "azure-ai-language",
+    "difficulty": "intermediate",
+    "service": "Azure Ai Language",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-language. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-language integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc076",
+    "title": "Azure Ai Vision Concept 76",
+    "category": "azure-ai-vision",
+    "difficulty": "advanced",
+    "service": "Azure Ai Vision",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-ai-vision. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-vision integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc077",
+    "title": "Agent Framework Concept 77",
+    "category": "agent-framework",
+    "difficulty": "advanced",
+    "service": "Agent Framework",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains agent-framework. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how agent-framework integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc078",
+    "title": "Prompt Flow Concept 78",
+    "category": "prompt-flow",
+    "difficulty": "intermediate",
+    "service": "Prompt Flow",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains prompt-flow. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how prompt-flow integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc079",
+    "title": "Rag Concept 79",
+    "category": "rag",
+    "difficulty": "beginner",
+    "service": "Rag",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains rag. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how rag integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc080",
+    "title": "Vector Search Concept 80",
+    "category": "vector-search",
+    "difficulty": "intermediate",
+    "service": "Vector Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains vector-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how vector-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc081",
+    "title": "Azure Openai Concept 81",
+    "category": "azure-openai",
+    "difficulty": "advanced",
+    "service": "Azure Openai",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-openai. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-openai integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc082",
+    "title": "Azure Ai Search Concept 82",
+    "category": "azure-ai-search",
+    "difficulty": "beginner",
+    "service": "Azure Ai Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc083",
+    "title": "Azure Ai Foundry Concept 83",
+    "category": "azure-ai-foundry",
+    "difficulty": "advanced",
+    "service": "Azure Ai Foundry",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-foundry. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-foundry integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc084",
+    "title": "Azure Document Intelligence Concept 84",
+    "category": "azure-document-intelligence",
+    "difficulty": "intermediate",
+    "service": "Azure Document Intelligence",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-document-intelligence. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-document-intelligence integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc085",
+    "title": "Azure Ai Language Concept 85",
+    "category": "azure-ai-language",
+    "difficulty": "intermediate",
+    "service": "Azure Ai Language",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-language. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-language integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc086",
+    "title": "Azure Ai Vision Concept 86",
+    "category": "azure-ai-vision",
+    "difficulty": "beginner",
+    "service": "Azure Ai Vision",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-ai-vision. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-vision integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc087",
+    "title": "Agent Framework Concept 87",
+    "category": "agent-framework",
+    "difficulty": "beginner",
+    "service": "Agent Framework",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains agent-framework. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how agent-framework integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc088",
+    "title": "Prompt Flow Concept 88",
+    "category": "prompt-flow",
+    "difficulty": "intermediate",
+    "service": "Prompt Flow",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains prompt-flow. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how prompt-flow integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc089",
+    "title": "Rag Concept 89",
+    "category": "rag",
+    "difficulty": "advanced",
+    "service": "Rag",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains rag. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how rag integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc090",
+    "title": "Vector Search Concept 90",
+    "category": "vector-search",
+    "difficulty": "intermediate",
+    "service": "Vector Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains vector-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how vector-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc091",
+    "title": "Azure Openai Concept 91",
+    "category": "azure-openai",
+    "difficulty": "beginner",
+    "service": "Azure Openai",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains azure-openai. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-openai integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc092",
+    "title": "Azure Ai Search Concept 92",
+    "category": "azure-ai-search",
+    "difficulty": "beginner",
+    "service": "Azure Ai Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc093",
+    "title": "Azure Ai Foundry Concept 93",
+    "category": "azure-ai-foundry",
+    "difficulty": "beginner",
+    "service": "Azure Ai Foundry",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-foundry. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-foundry integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc094",
+    "title": "Azure Document Intelligence Concept 94",
+    "category": "azure-document-intelligence",
+    "difficulty": "intermediate",
+    "service": "Azure Document Intelligence",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-document-intelligence. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-document-intelligence integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc095",
+    "title": "Azure Ai Language Concept 95",
+    "category": "azure-ai-language",
+    "difficulty": "beginner",
+    "service": "Azure Ai Language",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains azure-ai-language. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-language integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc096",
+    "title": "Azure Ai Vision Concept 96",
+    "category": "azure-ai-vision",
+    "difficulty": "advanced",
+    "service": "Azure Ai Vision",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains azure-ai-vision. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how azure-ai-vision integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc097",
+    "title": "Agent Framework Concept 97",
+    "category": "agent-framework",
+    "difficulty": "beginner",
+    "service": "Agent Framework",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains agent-framework. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how agent-framework integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc098",
+    "title": "Prompt Flow Concept 98",
+    "category": "prompt-flow",
+    "difficulty": "intermediate",
+    "service": "Prompt Flow",
+    "author": "Microsoft Learn",
+    "publishedYear": 2024,
+    "content": "This document explains prompt-flow. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how prompt-flow integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc099",
+    "title": "Rag Concept 99",
+    "category": "rag",
+    "difficulty": "beginner",
+    "service": "Rag",
+    "author": "Microsoft Learn",
+    "publishedYear": 2026,
+    "content": "This document explains rag. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how rag integrates with Azure AI solutions and how to design production-ready AI applications."
+  },
+  {
+    "id": "doc100",
+    "title": "Vector Search Concept 100",
+    "category": "vector-search",
+    "difficulty": "advanced",
+    "service": "Vector Search",
+    "author": "Microsoft Learn",
+    "publishedYear": 2025,
+    "content": "This document explains vector-search. It covers architecture, implementation patterns, best practices, security considerations, scalability guidance, operational monitoring. It discusses real-world scenarios involving Azure AI services, retrieval augmented generation, vector search, prompt engineering, agents, orchestration, and enterprise deployment approaches. Learners can use this content to understand how vector-search integrates with Azure AI solutions and how to design production-ready AI applications."
+  }
+]
