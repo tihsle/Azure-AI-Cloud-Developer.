@@ -67,3 +67,10 @@ Run the following set of commands to finally publish the function app to azure:
 ```bash
 func azure functionapp publish <FUNCTION_APP_NAME_ON_AZURE>
 ```
+
+Also make sure you have the following three variable values set into the `Environment` settings for the function app resource:
+```python
+AZURE_OPENAI_ENDPOINT=""
+AZURE_OPENAI_API_KEY=""
+CHAT_COMPLETIONS_MODEL=""
+```
