@@ -22,3 +22,10 @@ Assign the system assigned managed identity of the web app the role of `App Conf
 ### Create a Feature Flag and Key-Value Pair
 
 In your Azure App Configuration resource create a new feature flag named `UseNewChatModel` and a new key-value pair named `AzureOpenAI:NewModelName`
+
+### Test the Application
+
+Execute the following POST request to trigger your application:
+```bash
+curl -X POST https://<YOUR-WEB-APP-NAME>.azurewebsites.net/chat -H "Content-Type: application/json" -d "{\"message\":\"hi\"}"
+```
