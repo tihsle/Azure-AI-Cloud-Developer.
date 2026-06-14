@@ -1,5 +1,11 @@
 ### Getting Started with AKS (Azure Kubernetes Service)
 
+### Install kubectl CLI
+
+```powershell
+winget install -e --id Kubernetes.kubectl
+```
+
 ## Connect to Your Kubernetes Cluster
 
 To connect to your Kubernetes cluster, run:
