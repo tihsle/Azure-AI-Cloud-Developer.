@@ -10,7 +10,7 @@ docker build -t aoaichatapp:latest .
 
 Run the Docker image locally to test:
 ```bash
-docker run -p 5000:5000 aoaichatapp:latest
+docker run -p 5000:80 aoaichatapp:latest
 ```
 
 ### Push the Docker Image to Azure Container Registry (ACR)
