@@ -15,12 +15,12 @@ export RG_NAME="YOUR_RESOURCE_GROUP_NAME"
 export ACA_ENV_NAME="YOUR_ACA_ENV_NAME"
 ```
 
-### Adding out HTTP Sclaing Rule
+### Adding out HTTP Scaling Rule
 
 We will now add an HTTP Scaling rule. The rule will state that if the HTTP traffic to the `ChatBackend` application exceeds a certain concurrency threshold of `1` requests at a time, the application should scale up to handle the increased load with the `min-replicas` set to `1` and `max-replicas` set to `10`.
 ```bash
 az containerapp update \
-    --name chat-backend \
+    --name chatbackendapp \
     --resource-group $RG_NAME \
     --min-replicas 1 \
     --max-replicas 10 \
